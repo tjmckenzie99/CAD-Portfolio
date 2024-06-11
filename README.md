@@ -1,1 +1,1 @@
-CAD Files and Drawings are seperated by title. Most of these are personal projects, however, some of these are school related or done for a job.
+CAD Files and Drawings are seperated by title. Most of these are personal projects, however, some of these are school related or done for a job. The drawings folder is divided into three categories based on complexity & difficulty of the object.
