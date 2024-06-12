@@ -1,0 +1,1 @@
+Most of these parts I did not design. I did the drawings so they could be machined. However, some of these I did do. (Note: Some files may not be here because of confidentiality of team design.)
