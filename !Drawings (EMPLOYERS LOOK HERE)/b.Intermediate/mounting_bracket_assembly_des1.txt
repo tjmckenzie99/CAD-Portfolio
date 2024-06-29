@@ -1,0 +1,3 @@
+NOTE: Confidential files were left out of this design.
+
+This is a mechanism designed to swing a pickleball racket with 100 lbs of force delivering it to a pickleball to measure impact vibration. This design had several different models, ultimately we decided to go a different route to the design that would dampen vibrations from reverberation of the meta much better and would have a lower manufacturing cost.
