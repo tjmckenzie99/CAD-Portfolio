@@ -4,3 +4,25 @@
 !               : Creo Parametric Student Edition (for educational use only) will terminate and any unsaved work will be lost.
 !               : Do you really want to exit?
 ~ Activate `UI Message Dialog` `no`
+~ Power `` `` 3
+~ Power `` `` 5
+! Message Dialog: Info
+!               : Unsaved data may have been lost.
+~ Activate `UI Message Dialog` `ok`
+~ Power `` `` 5
+! Message Dialog: Info
+!               : Unsaved data may have been lost.
+~ Activate `UI Message Dialog` `ok`
+~ LButtonArm `main_dlg_cur` `proe_win` 9 1026 540 0 1 2126 1128 2560 1440 8363028
+** 0.472324 0.520390 0 1 1
+0.472324 0.439079 L 0 1.336888889 0
+~ LButtonDisarm `main_dlg_cur` `proe_win` 9 1026 540 0 0 2126 1128 2560 1440 8363147
+~ Minimize `main_dlg_cur` `main_dlg_cur`
+~ Minimize `SA_BROWSER_WELCOME_SCREEN` `SA_BROWSER_WELCOME_SCREEN`
+~ Close `main_dlg_cur` `main_dlg_cur`
+!Command ProCmdOSExit was pushed from the software.
+! Message Dialog: Warning
+!               : Creo Parametric Student Edition (for educational use only) will terminate and any unsaved work will be lost.
+!               : Do you really want to exit?
+~ Activate `UI Message Dialog` `yes`
+!End of Trail File
