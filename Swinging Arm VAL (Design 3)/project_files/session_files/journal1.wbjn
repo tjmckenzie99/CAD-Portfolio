@@ -1,0 +1,17 @@
+# encoding: utf-8
+# 2024 R1
+SetScriptVersion(Version="24.1.144")
+Open(FilePath=GetAbsoluteUserPathName("GitHub/CAD-Portfolio/Swinging Arm VAL (Design 3)/swing_arm_body_v3.asm.63"))
+Open(FilePath=GetAbsoluteUserPathName("GitHub/CAD-Portfolio/Swinging Arm VAL (Design 3)/swing_arm_body_v3.asm.63"))
+Open(FilePath=GetAbsoluteUserPathName("GitHub/CAD-Portfolio/Swinging Arm VAL (Design 3)/swing_arm_body_v3_asm.stp"))
+fileType1 = GetFileType(Name="GeometryFileType")
+ImportFile(
+    FilePath=GetAbsoluteUserPathName("GitHub/CAD-Portfolio/Swinging Arm VAL (Design 3)/swing_arm_body_v3_asm.stp"),
+    FileType=fileType1)
+system1 = GetSystem(Name="Geometry")
+geometry1 = system1.GetContainer(ComponentName="Geometry")
+geometry1.Edit(IsDiscoveryGeometry=True)
+Refresh()
+geometry1.Edit(IsDiscoveryGeometry=True)
+geometry1.Exit()
+Save(Overwrite=True)
