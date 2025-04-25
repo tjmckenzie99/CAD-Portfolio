@@ -79,3 +79,59 @@
 return; # Stop script and return to application 
 # *quit 1; # Uncomment to exit application
 *do_markrejectclear 0
+*begin "version 2025.0.0.24  4-25-2025  18:22:31"
+*createstringarray 20 " 0 penalty value              0.00    0.00    0.80    1.00   10.00" \
+  "  1 min length        1 1.0   1.000   0.900   0.400   0.200   0.100    1   59    0" \
+  "  2 max length        1 1.0   1.000   1.200   1.500   2.000   3.000    0   39    1" \
+  "  3 aspect ratio      1 1.0   1.000   2.000   4.400   5.000  10.000    0   41    2" \
+  "  4 warpage           1 1.0   0.000   5.000  13.000  15.000  30.000    0   56    3" \
+  "  5 max angle quad    1 1.0  90.000 110.000 134.000 140.000 160.000    0   28    4" \
+  "  6 min angle quad    1 1.0  90.000  70.000  46.000  40.000  20.000    0   61    5" \
+  "  7 max angle tria    1 1.0  60.000  80.000 112.000 120.000 150.000    0   19    6" \
+  "  8 min angle tria    1 1.0  60.000  50.000  34.000  30.000  15.000    0   22    7" \
+  "  9 skew              1 1.0   0.000  10.000  34.000  40.000  70.000    0   46    8" \
+  " 10 jacobian          1 1.0   1.000   0.900   0.700   0.600   0.300    0   57    9" \
+  " 11 chordal dev       0 1.0   0.000   0.300   0.800   1.000   2.000    0   29   10" \
+  " 12 taper             1 1.0   0.000   0.200   0.500   0.600   0.900    0   53   11" \
+  " 13 % of trias        1 1.0   0.000   6.000  10.000  15.000  20.000    0    0   -1" \
+  " 14 QI color legend            32      32       7       6       3           3   -1" \
+  " 15 time_step         0         1.000                       0.01            0   59   12" \
+  " 16 area_skew         0         1.000                      0.500            0   39   13" \
+  " 17 cell_squish       0         1.000                      0.600            0   53   14" \
+  " 18 equi_skew         0         1.000                      0.600            0   34   15" \
+  "   Global_solver -1"
+*setqualitycriteria 1 20 0
+*templatefileset "C:/Program Files/Altair/2025/hwdesktop/templates/feoutput/optistruct/optistruct"
+*menufilterset "*"
+*menufilterdisable 
+*setoption show_scale=0
+*setscaleoption position=bottom
+*viewset 1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 10 10
+*setoption display_color-5=2
+*setoption highlight-active_color=#FFFFFF
+*setoption highlight-glow_color=#FFFFFF
+*graphicfont 2
+*menufont 2
+*ME_CoreBehaviorAdjust "allowable_actions_policy=default"
+*loaddefaultattributevaluesfromxml 
+*setoption highlight-active_color=#FFFFFF
+*setoption highlight-glow_color=#FFFFFF
+*hwct_openlibrary modules usersettingsfilepath=C:/Users/tjmck/.altair/AltairPartLibrarySettings2020.xml  workspacename=workspace  user=tjmck  libraryname=Part_Library  librarytype=LOCAL
+*clearmarkall 3
+*clearmarkall 1
+*setoption topoedgecolor=0
+*setoption topofacecolor=4
+*readfile "C:\\Users\\tjmck\\OneDrive\\Documents\\GitHub\\CAD-Portfolio\\Transmission Loss Box\\Mesh Files\\Transmission Loss Box Mesh 2.hm"  0
+*setoption topofacecolor=4
+*rotateabout 1 12.879549 1.26118279 -7.91975021
+*viewset -0.977871461 0.104566452 -0.18119951 0 -0.097626992 0.537954464 0.837301598 0 0.185030742 0.8364633 -0.515841809 0 10.6902211 4.35535274 -8.23789839 1 -7.09890532 -2.95625 3.69359034 2.95625
+*rotateabout 1 12.8386078 1.55429173 -10.75
+*viewset -0.169683645 0.285570448 -0.943216295 0 0.00636263776 0.95739304 0.288718001 0 0.985478045 0.0429893792 -0.164270922 0 4.86728004 -7.29861376 6.17738224 1 -16.9655512 -8.36153769 13.5602362 8.36153769
+*rotateabout 1 -2.71837974 4.49533939 -10.75
+*viewset -0.855675373 0.236274996 0.460427825 0 -0.0542966449 0.843794911 -0.533911999 0 -0.514656711 -0.481855035 -0.709185585 0 -12.8512705 -12.5640328 7.83318839 1 -16.9655512 -8.36153769 13.5602362 8.36153769
+*rotateabout 1 13.2421951 -12.875 1.45988834
+*viewset -0.872438687 -0.220027432 0.43639279 0 -0.0510531244 0.929068796 0.366366961 0 -0.486049706 0.297353495 -0.821788648 0 -32.4859319 -28.1198149 19.9069445 1 -104.378758 -56.2494965 100.973443 56.2494965
+# Session ended at "4-25-2025  18:27:19"
+return; # Stop script and return to application 
+# *quit 1; # Uncomment to exit application
+*do_markrejectclear 0
