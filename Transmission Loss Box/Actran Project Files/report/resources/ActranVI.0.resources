@@ -1,0 +1,42 @@
+# ACTRAN RESOURCES USAGE FILE
+# 
+# total physical memory:	32173MB
+# total disk space on current directory ("C:\Users\tjmck\OneDrive\Documents\GitHub\CAD-Portfolio\Transmission Loss Box\Actran Project Files"):	1880GB
+# total disk space on scratch directory ("C:\Users\tjmck\OneDrive\Documents\GitHub\CAD-Portfolio\Transmission Loss Box\Actran Project Files"):	1880GB
+# 
+# labels
+#   bo: begin offset
+#   eo: end offset
+#  fpm: free physical memory
+#  pvm: process virtual memory
+#  prm: process resident memory
+#   si: swapping
+#  fdc: free disk space (current directory)
+#  fds: free disk space (scratch directory)
+#   l1: load_one
+#   l5: load_five
+#  l15: load_fifteen
+# ppvm: process peak virtual memory
+# pprm: process peak resident memory
+#  cpm: cached physical memory
+# 
+#        bo          eo         fpm         pvm         prm          si         fdc         fds          l1          l5         l15        ppvm        pprm        cpm
+          0          18       18550         353         382           0         638         638       0.000       0.000       0.000         365         394          0
+         18          28       18404        1257         517           0         638         638       0.000       0.000       0.000        1344         517          0
+         28          39       18243        1050         517           0         638         638       0.000       0.000       0.000        1344         524          0
+         39          49       18262        1050         517           0         638         638       0.000       0.000       0.000        1344         524          0
+         49          59       18268        1050         517           0         638         638       0.000       0.000       0.000        1344         524          0
+         59          69       18270        1050         517           0         638         638       0.000       0.000       0.000        1344         524          0
+         69          79       18285        1050         518           0         638         638       0.000       0.000       0.000        1344         524          0
+         79          90       18271        1052         520           0         638         638       0.000       0.000       0.000        1344         524          0
+         90         100       18326        1053         521           0         638         638       0.000       0.000       0.000        1344         524          0
+        100         110       18341        1059         545           0         638         638       0.000       0.000       0.000        1344         547          0
+        110         120       18275        1059         545           0         638         638       0.000       0.000       0.000        1344         547          0
+        120         130       18226        1048         545           0         638         638       0.000       0.000       0.000        1344         547          0
+        130         141       17843         979         539           0         638         638       0.000       0.000       0.000        1344         547          0
+        141         151       17832         715         539           0         638         638       0.000       0.000       0.000        1344         547          0
+        151         161       17814         717         541           0         638         638       0.000       0.000       0.000        1344         547          0
+        161         171       17786         962         550           0         638         638       0.000       0.000       0.000        1344         550          0
+        171         182       17799         962         550           0         638         638       0.000       0.000       0.000        1344         550          0
+        182         192       17776         962         550           0         638         638       0.000       0.000       0.000        1344         550          0
+        192         195       17820         668         477           0         638         638       0.000       0.000       0.000        1344         550          0

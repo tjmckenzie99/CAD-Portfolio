@@ -1,0 +1,34 @@
+
+#================ DO NOT SUPRESS OR EDIT THIS LINE AND THE LINES BELOW ==================
+#
+#  Actran Student Edition 2024.2 Session file
+#
+#  Hostname  : Zephyrus - Windows 6.2.9200.0.0 (workstation x64)
+#  Processor : 22x Intel(R) Core(TM) Ultra 9 185H
+#  Memory    : 18925MB [ 58% of 32173MB available ]
+#=========================== DO NOT EDIT THE ABOVE LINES ================================
+  
+  
+actranvi = ActranVI()
+actranvi.load_project(path='C:\\Users\\tjmck\\OneDrive\\Documents\\GitHub\\CAD-Portfolio\\Transmission Loss Box\\Actran Project Files\\TL_Box_Trail_2.apf')
+actranvi.set_shading( what=actranvi.get_domain( topology=actranvi.get_topology( id=2 ), name='CutExtrude2__18905_6' ), shading='both' )
+actranvi.set_shading( what=actranvi.get_topology( id=2 ), shading='wireframe' )
+actranvi.set_shading( what=actranvi.get_topology( id=2 ), shading='surface' )
+actranvi.set_visibility( what=actranvi.get_domain( topology=actranvi.get_topology( id=2 ), name='All_2' ), visibility='opaque' )
+actranvi.set_visibility( what=actranvi.get_domain( topology=actranvi.get_topology( id=2 ), name='All_2' ), visibility='hidden' )
+actranvi.set_visibility( what=actranvi.get_domain( topology=actranvi.get_topology( id=2 ), name='All_2' ), visibility='transparent' )
+actranvi.set_visibility( what=actranvi.get_domain( topology=actranvi.get_topology( id=2 ), name='All_2' ), visibility='opaque' )
+actranvi.set_visibility( what=actranvi.get_domain( topology=actranvi.get_topology( id=2 ), name='All_2' ), visibility='hidden' )
+actranvi.set_visibility( what=actranvi.get_domain( topology=actranvi.get_topology( id=2 ), name='All_2' ), visibility='transparent' )
+actranvi.set_color( what=actranvi.get_domain( topology=actranvi.get_topology( id=2 ), name='All_2' ), color=(0, 0, 255) )
+actranvi.set_color( what=actranvi.get_domain( topology=actranvi.get_topology( id=2 ), name='All_2' ), color=(233, 233, 233) )
+actranvi.set_prop( viewport_1, parallel_projection=False )
+actranvi.set_prop( viewport_1, parallel_projection=True )
+actranvi.set_prop( viewport_1, parallel_projection=False )
+actranvi.set_prop( viewport_1, parallel_projection=True )
+actranvi.set_prop( viewport_1, parallel_projection=False )
+actranvi.switch_app(application_name='Runs' )
+actranvi.switch_app(application_name='ActranVI' )
+actranvi.remove(what=actranvi.get_topology( id=1 ))
+actranvi.remove(what=actranvi.get_topology( id=2 ))
+actranvi.remove(what=actranvi.get_topology( id=4 ))

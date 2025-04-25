@@ -1,0 +1,44 @@
+ Student Edition licensing mode
+  
+  ---- INFO ----
+  Using Actran Student Edition including a limited set of functionalities.
+  --------------
+
+  Initializing ActranVI                                                                              (time: 00s, total: 16s, mem: 336[336]MB)
+    
+    ---- INFO ----
+    The session file is being written to C:\Users\tjmck\OneDrive\Documents\GitHub\CAD-Portfolio\Transmission Loss Box\Actran Project Files\report\ActranVI.2.sess
+    --------------
+  ... done ( Initializing ActranVI )                                                                 (time: 06s, total: 22s, mem: 468[502]MB)
+
+  Load project C:\Users\tjmck\OneDrive\Documents\GitHub\CAD-Portfolio\Transmission Loss Box\Actran Project Files\TL_Box_Trail_2.apf (time: 00s, total: 24s, mem: 492[502]MB)
+
+   Clearing all visualization                                                                        (time: 00s, total: 24s, mem: 492[502]MB)
+   ... done ( Clearing all visualization )                                                           (time: 00s, total: 24s, mem: 492[502]MB)
+    
+    ---- FATAL ----
+    Syntax/Value error in setting property
+      property : result_type
+      object : Realisation selector 1 (Realisation Selector)
+      entered value : 'static'
+    
+    Error: Supported values are [] (node Realisation selector 1, attribute name result_type)
+    ---------------
+    
+    ---- FATAL ----
+    Syntax/Value error in setting property
+      property : static_load_case_id
+      object : Realisation selector 1 (Realisation Selector)
+      entered value : '0'
+    
+    Error: Supported values are [] (node Realisation selector 1, attribute name static_load_case_id)
+    ---------------
+  ... done ( Load project C:\Users\tjmck\OneDrive\Documents\GitHub\CAD-Portfolio\Transmission Loss Box\Actran Project Files\TL_Box_Trail_2.apf ) (time: 00s, total: 24s, mem: 495[502]MB)
+   
+   ---- INFO ----
+   A new version of Actran Student Edition (2025.1) is available for download. A browser window will now open the student download center (https://hexagon.com/products/actran-student-edition).
+   --------------
+
+  Clearing all visualization                                                                         (time: 00s, total: 03m13s, mem: 550[550]MB)
+  ... done ( Clearing all visualization )                                                            (time: 00s, total: 03m13s, mem: 550[550]MB)
+  Exiting application

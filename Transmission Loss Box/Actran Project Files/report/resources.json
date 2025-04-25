@@ -1,0 +1,12 @@
+{
+	"command_line" : "C:\\Program Files\\MSC.Software\\Actran\\Actran_Student_Edition_2024.2\\bin\\actranpy.exe --utility=VI --no_console_window C:\\Users\\tjmck\\OneDrive\\Documents\\GitHub\\CAD-Portfolio\\Transmission Loss Box\\Actran Project Files\\TL_Box_Trail_2.apf ",
+	"comments" : "the license data stores for each FEATURE a dictionnary as such (the number of seats to be used, the number of MSC One tokens to be used) for this run and the resources data stores estimated memory requirements for this run",
+	"warnings" : [
+		"the number of MSC One tokens to be used is relevant if the licensing server is using MSC One tokens."
+	],
+	"license" : {
+	},
+	"resources" : {
+		"output_files" : [ ]
+	}
+}
