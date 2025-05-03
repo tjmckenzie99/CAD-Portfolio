@@ -4,41 +4,47 @@
   Using Actran Student Edition including a limited set of functionalities.
   --------------
 
-  Initializing ActranVI                                                                              (time: 00s, total: 16s, mem: 336[336]MB)
+  Initializing ActranVI                                                                              (time: 00s, total: 41s, mem: 337[337]MB)
     
     ---- INFO ----
-    The session file is being written to C:\Users\tjmck\OneDrive\Documents\GitHub\CAD-Portfolio\Transmission Loss Box\Actran Project Files\report\ActranVI.2.sess
+    The session file is being written to C:\Users\tjmck\OneDrive\Documents\GitHub\CAD-Portfolio\Transmission Loss Box\Actran Project Files\report\ActranVI.3.sess
     --------------
-  ... done ( Initializing ActranVI )                                                                 (time: 06s, total: 22s, mem: 468[502]MB)
+  ... done ( Initializing ActranVI )                                                                 (time: 07s, total: 48s, mem: 471[504]MB)
 
-  Load project C:\Users\tjmck\OneDrive\Documents\GitHub\CAD-Portfolio\Transmission Loss Box\Actran Project Files\TL_Box_Trail_2.apf (time: 00s, total: 24s, mem: 492[502]MB)
+  Load project C:\Users\tjmck\OneDrive\Documents\GitHub\CAD-Portfolio\Transmission Loss Box\Actran Project Files\TL_Box_Trail_8.apf (time: 00s, total: 49s, mem: 496[504]MB)
 
-   Clearing all visualization                                                                        (time: 00s, total: 24s, mem: 492[502]MB)
-   ... done ( Clearing all visualization )                                                           (time: 00s, total: 24s, mem: 492[502]MB)
+   Clearing all visualization                                                                        (time: 00s, total: 50s, mem: 496[504]MB)
+   ... done ( Clearing all visualization )                                                           (time: 00s, total: 50s, mem: 496[504]MB)
+
+   Loading topological information of TOPOLOGY_30.nff 5[C:\Users\tjmck\OneDrive\Documents\GitHub\CAD-Portfolio\Transmission Loss Box\Actran Project Files\scratch_22040\000\apf_o4962ku3.tmp\30.nff] (time: 00s, total: 50s, mem: 498[504]MB)
+   ... done ( Loading topological information of TOPOLOGY_30.nff 5[C:\Users\tjmck\OneDrive\Documents\GitHub\CAD-Portfolio\Transmission Loss Box\Actran Project Files\scratch_22040\000\apf_o4962ku3.tmp\30.nff] ) (time: 05s, total: 55s, mem: 768[778]MB)
+
+   Loading topological information of TOPOLOGY_52.nff 7[C:\Users\tjmck\OneDrive\Documents\GitHub\CAD-Portfolio\Transmission Loss Box\Actran Project Files\scratch_22040\000\apf_o4962ku3.tmp\52.nff] (time: 00s, total: 56s, mem: 911[1034]MB)
+   ... done ( Loading topological information of TOPOLOGY_52.nff 7[C:\Users\tjmck\OneDrive\Documents\GitHub\CAD-Portfolio\Transmission Loss Box\Actran Project Files\scratch_22040\000\apf_o4962ku3.tmp\52.nff] ) (time: 00s, total: 57s, mem: 926[1034]MB)
     
     ---- FATAL ----
-    Syntax/Value error in setting property
-      property : result_type
-      object : Realisation selector 1 (Realisation Selector)
-      entered value : 'static'
-    
-    Error: Supported values are [] (node Realisation selector 1, attribute name result_type)
+    'Impervious' is not a supported boundary condition type for Actran Student Edition
     ---------------
     
     ---- FATAL ----
-    Syntax/Value error in setting property
-      property : static_load_case_id
-      object : Realisation selector 1 (Realisation Selector)
-      entered value : '0'
-    
-    Error: Supported values are [] (node Realisation selector 1, attribute name static_load_case_id)
+    Unexpected error:
+    The following python error occurred:
+      AssertionError()
     ---------------
-  ... done ( Load project C:\Users\tjmck\OneDrive\Documents\GitHub\CAD-Portfolio\Transmission Loss Box\Actran Project Files\TL_Box_Trail_2.apf ) (time: 00s, total: 24s, mem: 495[502]MB)
+    
+    ---- FATAL ----
+    Unexpected error:
+    The following python error occurred:
+      AssertionError()
+    ---------------
+
+   Clearing all visualization                                                                        (time: 00s, total: 01m34s, mem: 929[1034]MB)
+   ... done ( Clearing all visualization )                                                           (time: 00s, total: 01m34s, mem: 929[1034]MB)
+   Exiting application
+  ... done ( Load project C:\Users\tjmck\OneDrive\Documents\GitHub\CAD-Portfolio\Transmission Loss Box\Actran Project Files\TL_Box_Trail_8.apf ) (time: 45s, total: 01m35s, mem: 513[1034]MB)
    
-   ---- INFO ----
-   A new version of Actran Student Edition (2025.1) is available for download. A browser window will now open the student download center (https://hexagon.com/products/actran-student-edition).
-   --------------
-
-  Clearing all visualization                                                                         (time: 00s, total: 03m13s, mem: 550[550]MB)
-  ... done ( Clearing all visualization )                                                            (time: 00s, total: 03m13s, mem: 550[550]MB)
-  Exiting application
+   ---- FATAL ----
+   Unexpected error:
+   The following python error occurred:
+     AttributeError("'NoneType' object has no attribute 'synchronize'")
+   ---------------

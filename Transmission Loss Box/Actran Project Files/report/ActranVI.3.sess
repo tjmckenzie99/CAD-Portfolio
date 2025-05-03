@@ -1,0 +1,12 @@
+
+#================ DO NOT SUPRESS OR EDIT THIS LINE AND THE LINES BELOW ==================
+#
+#  Actran Student Edition 2024.2 Session file
+#
+#  Hostname  : Zephyrus - Windows 6.2.9200.0.0 (workstation x64)
+#  Processor : 22x Intel(R) Core(TM) Ultra 9 185H
+#  Memory    : 18531MB [ 57% of 32173MB available ]
+#=========================== DO NOT EDIT THE ABOVE LINES ================================
+  
+  
+actranvi = ActranVI()

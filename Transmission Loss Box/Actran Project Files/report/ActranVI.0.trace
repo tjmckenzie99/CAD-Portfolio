@@ -5,8 +5,8 @@
   ---- INFO ----
   Using Actran Student Edition including a limited set of functionalities.
   --------------
- Application information                                                                             (time: 0000000.0000[0000008.1448]s, rmem: 0000041[0000041]MB, vmem: 0000035[0000036]MB)
-  Command line : C:\Program Files\MSC.Software\Actran\Actran_Student_Edition_2024.2\bin\actranpy.exe --utility=VI --no_console_window C:\Users\tjmck\OneDrive\Documents\GitHub\CAD-Portfolio\Transmission Loss Box\Actran Project Files\TL_Box_Trail_2.apf 
+ Application information                                                                             (time: 0000000.0000[0000008.2593]s, rmem: 0000041[0000041]MB, vmem: 0000035[0000036]MB)
+  Command line : C:\Program Files\MSC.Software\Actran\Actran_Student_Edition_2024.2\bin\actranpy.exe --utility=VI --no_console_window C:\Users\tjmck\OneDrive\Documents\GitHub\CAD-Portfolio\Transmission Loss Box\Actran Project Files\TL_Box_Trail_8.apf 
   Env :
     PATH : C:\Program Files\MSC.Software\Actran\Actran_Student_Edition_2024.2\bin;C:\Program Files (x86)\Common Files\Oracle\Java\java8path;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\NVIDIA Corporation\NVIDIA app\NvDLISR;C:\Program Files\dotnet\;C:\Program Files\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files\TortoiseSVN\bin;C:\Program Files\MATLAB\R2024b\bin;C:\Program Files (x86)\Windows Kits\8.1\Windows Performance Toolkit\;C:\Program Files (x86)\Windows Kits\10\Windows Performance Toolkit\;C:\Program Files\MSC.Software\Actran\bin;C:\Users\tjmck\AppData\Local\Microsoft\WindowsApps;C:\Users\tjmck\AppData\Local\GitHubDesktop\bin;C:\Users\tjmck\.lmstudio\bin;%USERPROFILE%\AppData\Local\Microsoft\WindowsApps;
   Application : VI
@@ -33,26 +33,26 @@
   Scotch : Scotch-704
   Toolchain : Microsoft Visual Studio C++ 193431933
   Vtk : Vtk-922
- ... done ( Application information )                                                                (time: 0000000.0000[0000008.1448]s, rmem: 0000041[0000041]MB, vmem: 0000035[0000036]MB)
- Types information                                                                                   (time: 0000000.0000[0000008.1448]s, rmem: 0000041[0000041]MB, vmem: 0000035[0000036]MB)
+ ... done ( Application information )                                                                (time: 0000000.0000[0000008.2593]s, rmem: 0000041[0000041]MB, vmem: 0000035[0000036]MB)
+ Types information                                                                                   (time: 0000000.0000[0000008.2593]s, rmem: 0000041[0000041]MB, vmem: 0000035[0000036]MB)
   sizeof( int )    : 4 bytes
   sizeof( long )   : 4 bytes
   sizeof( float )  : 4 bytes
   sizeof( double ) : 8 bytes
   sizeof( void* )  : 8 bytes
- ... done ( Types information )                                                                      (time: 0000000.0000[0000008.1448]s, rmem: 0000041[0000041]MB, vmem: 0000035[0000036]MB)
- Licensing information                                                                               (time: 0000000.0000[0000008.1448]s, rmem: 0000041[0000041]MB, vmem: 0000035[0000036]MB)
+ ... done ( Types information )                                                                      (time: 0000000.0000[0000008.2593]s, rmem: 0000041[0000041]MB, vmem: 0000035[0000036]MB)
+ Licensing information                                                                               (time: 0000000.0000[0000008.2593]s, rmem: 0000041[0000041]MB, vmem: 0000035[0000036]MB)
   server : 1700@localhost
   user   :   tjmck@Zephyrus
- ... done ( Licensing information )                                                                  (time: 0000000.0000[0000008.1448]s, rmem: 0000041[0000041]MB, vmem: 0000035[0000036]MB)
- CPU check                                                                                           (time: 0000000.0000[0000008.1448]s, rmem: 0000041[0000041]MB, vmem: 0000035[0000036]MB)
- ... done ( CPU check )                                                                              (time: 0000000.0000[0000008.1448]s, rmem: 0000041[0000041]MB, vmem: 0000035[0000036]MB)
- Platform software limits                                                                            (time: 0000000.0000[0000008.1448]s, rmem: 0000041[0000041]MB, vmem: 0000035[0000036]MB)
+ ... done ( Licensing information )                                                                  (time: 0000000.0000[0000008.2593]s, rmem: 0000041[0000041]MB, vmem: 0000035[0000036]MB)
+ CPU check                                                                                           (time: 0000000.0000[0000008.2593]s, rmem: 0000041[0000041]MB, vmem: 0000035[0000036]MB)
+ ... done ( CPU check )                                                                              (time: 0000000.0000[0000008.2593]s, rmem: 0000041[0000041]MB, vmem: 0000035[0000036]MB)
+ Platform software limits                                                                            (time: 0000000.0000[0000008.2593]s, rmem: 0000041[0000041]MB, vmem: 0000035[0000036]MB)
   Maximum CPU time (s)           : unlimited
   Maximum Working Set Size (MB)  : unlimited
   Commit limit (MB)              : 134217727
- ... done ( Platform software limits )                                                               (time: 0000000.0000[0000008.1448]s, rmem: 0000041[0000041]MB, vmem: 0000035[0000036]MB)
- Multi-threading handling                                                                            (time: 0000000.0000[0000008.1448]s, rmem: 0000041[0000041]MB, vmem: 0000035[0000036]MB)
+ ... done ( Platform software limits )                                                               (time: 0000000.0000[0000008.2593]s, rmem: 0000041[0000041]MB, vmem: 0000035[0000036]MB)
+ Multi-threading handling                                                                            (time: 0000000.0000[0000008.2593]s, rmem: 0000041[0000041]MB, vmem: 0000035[0000036]MB)
   ACTRAN_BLAS_DYNAMIC_THREADS (1).
   ACTRAN_CORE_DYNAMIC_THREADS (0).
   ACTRAN_CORE_MAX_ACTIVE_LEVELS_THREADS (2).
@@ -70,197 +70,332 @@
     mt-field_check : 1
     mt-finalize : 1
     mt-base : 1
- ... done ( Multi-threading handling )                                                               (time: 0000000.0091[0000008.1538]s, rmem: 0000042[0000042]MB, vmem: 0000042[0000042]MB)
+ ... done ( Multi-threading handling )                                                               (time: 0000000.0030[0000008.2623]s, rmem: 0000042[0000042]MB, vmem: 0000042[0000042]MB)
  Initializing MPI module consumes 10.0234 MB.
- Creating ControlHandle                                                                              (time: 0000000.0000[0000008.1538]s, rmem: 0000042[0000042]MB, vmem: 0000042[0000042]MB)
- Period: 250000                                                                                      (time: 0000000.0000[0000008.1538]s, rmem: 0000042[0000042]MB, vmem: 0000042[0000042]MB)
- Probe periodicity: 40                                                                               (time: 0000000.0000[0000008.1538]s, rmem: 0000042[0000042]MB, vmem: 0000042[0000042]MB)
- Timeout: 0                                                                                          (time: 0000000.0000[0000008.1538]s, rmem: 0000042[0000042]MB, vmem: 0000042[0000042]MB)
- Done creating ControlHandle                                                                         (time: 0000000.0000[0000008.1538]s, rmem: 0000042[0000042]MB, vmem: 0000042[0000042]MB)
- Starting control thread                                                                             (time: 0000000.0000[0000008.1538]s, rmem: 0000042[0000042]MB, vmem: 0000042[0000042]MB)
- Control thread started                                                                              (time: 0000000.0000[0000008.1538]s, rmem: 0000042[0000042]MB, vmem: 0000042[0000042]MB)
+ Creating ControlHandle                                                                              (time: 0000000.0000[0000008.2623]s, rmem: 0000042[0000042]MB, vmem: 0000042[0000042]MB)
+ Period: 250000                                                                                      (time: 0000000.0000[0000008.2623]s, rmem: 0000042[0000042]MB, vmem: 0000042[0000042]MB)
+ Probe periodicity: 40                                                                               (time: 0000000.0000[0000008.2623]s, rmem: 0000042[0000042]MB, vmem: 0000042[0000042]MB)
+ Timeout: 0                                                                                          (time: 0000000.0000[0000008.2623]s, rmem: 0000042[0000042]MB, vmem: 0000042[0000042]MB)
+ Done creating ControlHandle                                                                         (time: 0000000.0000[0000008.2643]s, rmem: 0000042[0000042]MB, vmem: 0000042[0000042]MB)
+ Starting control thread                                                                             (time: 0000000.0000[0000008.2643]s, rmem: 0000042[0000042]MB, vmem: 0000042[0000042]MB)
+ Control thread started                                                                              (time: 0000000.0000[0000008.2643]s, rmem: 0000042[0000042]MB, vmem: 0000042[0000042]MB)
  HDF5 diagnostics : mute.
  The working directory is shared between all processes (C:/Users/tjmck/OneDrive/Documents/GitHub/CAD-Portfolio/Transmission Loss Box/Actran Project Files).
- Initializing FEMPy interpreter                                                                      (time: 0000000.0000[0000008.1573]s, rmem: 0000045[0000045]MB, vmem: 0000043[0000043]MB)
+ Initializing FEMPy interpreter                                                                      (time: 0000000.0000[0000008.3161]s, rmem: 0000045[0000045]MB, vmem: 0000043[0000043]MB)
   PYTHONHOME is set to :C:\Program Files\MSC.Software\Actran\Actran_Student_Edition_2024.2.
-  Initializing Python consumes 4.398MB.
+  Initializing Python consumes 4.383MB.
   actranpy.exe is running on processor 0/1
   Importing sys module in Python consumes 0.000MB.
   Importing os and sys modules in Python consumes 0.000MB.
- ... done ( Initializing FEMPy interpreter )                                                         (time: 0000000.0103[0000008.1676]s, rmem: 0000049[0000049]MB, vmem: 0000044[0000044]MB)
- MSC Customer entitlement ID : a05ea435-GD6F75BB
- Launching application                                                                               (time: 0000000.0000[0000010.2132]s, rmem: 0000049[0000049]MB, vmem: 0000044[0000045]MB)
-  Installing SUSPEND/RESUME signals                                                                  (time: 0000000.0000[0000010.2132]s, rmem: 0000049[0000049]MB, vmem: 0000044[0000045]MB)
-  ... done ( Installing SUSPEND/RESUME signals )                                                     (time: 0000000.0000[0000010.2132]s, rmem: 0000049[0000049]MB, vmem: 0000044[0000045]MB)
-  Platform topology scanning                                                                         (time: 0000000.0000[0000010.2132]s, rmem: 0000049[0000049]MB, vmem: 0000045[0000045]MB)
+ ... done ( Initializing FEMPy interpreter )                                                         (time: 0000000.0295[0000008.3457]s, rmem: 0000049[0000049]MB, vmem: 0000044[0000044]MB)
+ MSC Customer entitlement ID : a05ea435-GA4DB8F7
+ Launching application                                                                               (time: 0000000.0000[0000010.4110]s, rmem: 0000049[0000049]MB, vmem: 0000045[0000045]MB)
+  Installing SUSPEND/RESUME signals                                                                  (time: 0000000.0000[0000010.4110]s, rmem: 0000049[0000049]MB, vmem: 0000045[0000045]MB)
+  ... done ( Installing SUSPEND/RESUME signals )                                                     (time: 0000000.0000[0000010.4110]s, rmem: 0000049[0000049]MB, vmem: 0000045[0000045]MB)
+  Platform topology scanning                                                                         (time: 0000000.0000[0000010.4110]s, rmem: 0000049[0000049]MB, vmem: 0000045[0000045]MB)
    Platform topology loaded
    An hybrid processor architecture was detected. Selecting 'Performance' and 'Efficient' cores.
-   Checking architecture heterogeneity on 1 process                                                  (time: 0000000.0000[0000010.2132]s, rmem: 0000050[0000050]MB, vmem: 0000045[0000045]MB)
+   Checking architecture heterogeneity on 1 process                                                  (time: 0000000.0000[0000010.4194]s, rmem: 0000050[0000050]MB, vmem: 0000045[0000045]MB)
     all nodes have the same number of cores (16), pus (22), L2 caches (9), L3 caches (1), sockets (1) and gpus (0).
-   ... done ( Checking architecture heterogeneity on 1 process )                                     (time: 0000000.0000[0000010.2132]s, rmem: 0000050[0000050]MB, vmem: 0000045[0000045]MB)
-  ... done ( Platform topology scanning )                                                            (time: 0000000.0000[0000010.2132]s, rmem: 0000050[0000050]MB, vmem: 0000045[0000045]MB)
-  Process affinity handling                                                                          (time: 0000000.0000[0000010.2132]s, rmem: 0000050[0000050]MB, vmem: 0000045[0000045]MB)
+   ... done ( Checking architecture heterogeneity on 1 process )                                     (time: 0000000.0000[0000010.4194]s, rmem: 0000050[0000050]MB, vmem: 0000045[0000045]MB)
+  ... done ( Platform topology scanning )                                                            (time: 0000000.0084[0000010.4194]s, rmem: 0000050[0000050]MB, vmem: 0000045[0000045]MB)
+  Process affinity handling                                                                          (time: 0000000.0000[0000010.4194]s, rmem: 0000050[0000050]MB, vmem: 0000045[0000045]MB)
    Detected process affinity request : auto
-     binding detected on process 1440:firefox.exe ( 0:0 1:0 2:0 3:0 4:0 5:0 6:0 7:0 8:0 9:0 10:0 11:0 12:0 13:0 14:0 15:1 )
-     binding detected on process 18068:firefox.exe ( 0:0 1:0 2:0 3:0 4:0 5:0 6:0 7:0 8:0 9:0 10:0 11:0 12:0 13:0 14:0 15:1 )
-     binding detected on process 34948:firefox.exe ( 0:0 1:0 2:0 3:0 4:0 5:0 6:0 7:0 8:0 9:0 10:0 11:0 12:0 13:0 14:0 15:1 )
-     binding detected on process 26216:firefox.exe ( 0:0 1:0 2:0 3:0 4:0 5:0 6:0 7:0 8:0 9:0 10:0 11:0 12:0 13:0 14:0 15:1 )
-     binding detected on process 13200:firefox.exe ( 0:0 1:0 2:0 3:0 4:0 5:0 6:0 7:0 8:0 9:0 10:0 11:0 12:0 13:0 14:0 15:1 )
-     binding detected on process 22168:firefox.exe ( 0:0 1:0 2:0 3:0 4:0 5:0 6:0 7:0 8:0 9:0 10:0 11:0 12:0 13:0 14:0 15:1 )
-     binding detected on process 35364:firefox.exe ( 0:0 1:0 2:0 3:0 4:0 5:0 6:0 7:0 8:0 9:0 10:0 11:0 12:0 13:0 14:0 15:1 )
-     binding detected on process 23436:firefox.exe ( 0:0 1:0 2:0 3:0 4:0 5:0 6:0 7:0 8:0 9:0 10:0 11:0 12:0 13:0 14:0 15:1 )
-     binding detected on process 27192:firefox.exe ( 0:0 1:0 2:0 3:0 4:0 5:0 6:0 7:0 8:0 9:0 10:0 11:0 12:0 13:0 14:0 15:1 )
-     binding detected on process 23736:firefox.exe ( 0:0 1:0 2:0 3:0 4:0 5:0 6:0 7:0 8:0 9:0 10:0 11:0 12:0 13:0 14:0 15:1 )
-     binding detected on process 30036:firefox.exe ( 0:0 1:0 2:0 3:0 4:0 5:0 6:0 7:0 8:0 9:0 10:0 11:0 12:0 13:0 14:0 15:1 )
-     binding detected on process 25104:firefox.exe ( 0:0 1:0 2:0 3:0 4:0 5:0 6:0 7:0 8:0 9:0 10:0 11:0 12:0 13:0 14:0 15:1 )
-     binding detected on process 4328:firefox.exe ( 0:0 1:0 2:0 3:0 4:0 5:0 6:0 7:0 8:0 9:0 10:0 11:0 12:0 13:0 14:0 15:1 )
-     binding detected on process 9660:firefox.exe ( 0:0 1:0 2:0 3:0 4:0 5:0 6:0 7:0 8:0 9:0 10:0 11:0 12:0 13:0 14:0 15:1 )
-     binding detected on process 34860:firefox.exe ( 0:0 1:0 2:0 3:0 4:0 5:0 6:0 7:0 8:0 9:0 10:0 11:0 12:0 13:0 14:0 15:1 )
-     binding detected on process 14260:firefox.exe ( 0:0 1:0 2:0 3:0 4:0 5:0 6:0 7:0 8:0 9:0 10:0 11:0 12:0 13:0 14:0 15:1 )
-     binding detected on process 27476:firefox.exe ( 0:0 1:0 2:0 3:0 4:0 5:0 6:0 7:0 8:0 9:0 10:0 11:0 12:0 13:0 14:0 15:1 )
-     binding detected on process 22860:firefox.exe ( 0:0 1:0 2:0 3:0 4:0 5:0 6:0 7:0 8:0 9:0 10:0 11:0 12:0 13:0 14:0 15:1 )
-     binding detected on process 23816:firefox.exe ( 0:0 1:0 2:0 3:0 4:0 5:0 6:0 7:0 8:0 9:0 10:0 11:0 12:0 13:0 14:0 15:1 )
-      15 unbound cores found
+      16 unbound cores found
    Core footprint minimization not selected.
-     On Zephyrus:11464 with rank 0, process auto affinity was successfully applied. Note that some cores were found to be bound to another process.
-   Process affinity : 0:0 1:0 2:0 3:0 4:0 5:0 6:0 7:0 8:0 9:0 10:0 11:0 12:0 13:0 14:1 15:0 ( cpuset : 0x00100000 )
-  ... done ( Process affinity handling )                                                             (time: 0000000.0163[0000010.2295]s, rmem: 0000050[0000051]MB, vmem: 0000045[0000046]MB)
-  Initializing FEMTown modules                                                                       (time: 0000000.0000[0000010.2295]s, rmem: 0000050[0000051]MB, vmem: 0000045[0000046]MB)
+     On Zephyrus:22040 with rank 0, process auto affinity was successfully applied.
+   Process affinity : 0:0 1:0 2:0 3:0 4:0 5:0 6:0 7:0 8:0 9:0 10:0 11:0 12:0 13:0 14:0 15:1 ( cpuset : 0x00200000 )
+  ... done ( Process affinity handling )                                                             (time: 0000000.0293[0000010.4487]s, rmem: 0000050[0000051]MB, vmem: 0000045[0000046]MB)
+  Initializing FEMTown modules                                                                       (time: 0000000.0000[0000010.4487]s, rmem: 0000050[0000051]MB, vmem: 0000045[0000046]MB)
    Loading numpy module
-   Loading FEMTown module main consumes 0.047MB.
-   Loading FEMTown module gc consumes 0.008MB.
+   Loading FEMTown module main consumes 0.043MB.
+   Loading FEMTown module gc consumes 0.016MB.
    Loading FEMTown module command consumes 0.016MB.
-   Loading FEMTown module BEM consumes 0.008MB.
+   Loading FEMTown module BEM consumes 0.004MB.
    Loading FEMTown module ITM consumes 0.004MB.
-   Loading FEMTown module domain consumes 0.043MB.
+   Loading FEMTown module domain consumes 0.039MB.
    Loading FEMTown module platform consumes 0.012MB.
    Loading FEMTown module mayor consumes 0.008MB.
    Loading FEMTown module graph consumes 0.008MB.
-   Loading FEMTown module geometry consumes 0.004MB.
-   Loading FEMTown module interp consumes 0.016MB.
-   Loading FEMTown module math consumes 0.008MB.
+   Loading FEMTown module geometry consumes 0.008MB.
+   Loading FEMTown module interp consumes 0.012MB.
+   Loading FEMTown module math consumes 0.012MB.
    Loading FEMTown module directsolver consumes 0.004MB.
-   Loading FEMTown module distribution consumes 0.000MB.
-   Loading FEMTown module driver consumes 0.316MB.
+   Loading FEMTown module distribution consumes 0.004MB.
+   Loading FEMTown module driver consumes 0.223MB.
    Loading FEMTown module infinite_element consumes 0.008MB.
-   Loading FEMTown module material consumes 0.199MB.
+   Loading FEMTown module material consumes 0.129MB.
    Loading FEMTown module time_integration consumes 2.000MB.
-   Loading FEMTown module modalextraction consumes 0.062MB.
-   Loading FEMTown module solveroptions consumes 0.016MB.
+   Loading FEMTown module modalextraction consumes 0.070MB.
+   Loading FEMTown module solveroptions consumes 0.008MB.
    Loading FEMTown module ublas_dense_ext consumes 0.031MB.
    Loading FEMTown module ublas_sparse_ext consumes 0.355MB.
-   Loading FEMTown module cusolverdn consumes 0.012MB.
+   Loading FEMTown module cusolverdn consumes 0.016MB.
    Loading FEMTown module utilities consumes 0.121MB.
-   Loading FEMTown module component consumes 1.980MB.
-   Loading FEMTown module field consumes 0.145MB.
+   Loading FEMTown module component consumes 2.078MB.
+   Loading FEMTown module field consumes 0.176MB.
    Loading FEMTown module solverdriver consumes 0.012MB.
-   Loading FEMTown module dg_element consumes 0.008MB.
+   Loading FEMTown module dg_element consumes 0.004MB.
    Loading FEMTown module dg_sub_element consumes 0.004MB.
-   Loading FEMTown module dg_component consumes 0.203MB.
-   Loading FEMTown module dg_sources consumes 0.012MB.
+   Loading FEMTown module dg_component consumes 0.172MB.
+   Loading FEMTown module dg_sources consumes 0.008MB.
    Loading FEMTown module dg_utilities consumes 0.004MB.
-   Loading FEMTown module cfd_driver consumes 0.227MB.
+   Loading FEMTown module cfd_driver consumes 0.215MB.
    Loading FEMTown module cfd_fem_driver consumes 0.000MB.
    Loading FEMTown module femtown2vtk consumes 0.008MB.
-   Loading FEMTown module mesh consumes 0.027MB.
+   Loading FEMTown module mesh consumes 0.031MB.
    Loading FEMTown module cad_translator consumes 0.008MB.
-  ... done ( Initializing FEMTown modules )                                                          (time: 0000000.3951[0000010.6246]s, rmem: 0000078[0000078]MB, vmem: 0000062[0000062]MB)
-  Loading pyfemtown module                                                                           (time: 0000000.0000[0000010.6299]s, rmem: 0000078[0000078]MB, vmem: 0000062[0000062]MB)
-  ... done ( Loading pyfemtown module )                                                              (time: 0000000.0051[0000010.6350]s, rmem: 0000078[0000078]MB, vmem: 0000062[0000062]MB)
+  ... done ( Initializing FEMTown modules )                                                          (time: 0000001.8603[0000012.3090]s, rmem: 0000078[0000078]MB, vmem: 0000062[0000062]MB)
+  Loading pyfemtown module                                                                           (time: 0000000.0000[0000012.3225]s, rmem: 0000078[0000078]MB, vmem: 0000062[0000062]MB)
+  ... done ( Loading pyfemtown module )                                                              (time: 0000000.0040[0000012.3265]s, rmem: 0000078[0000078]MB, vmem: 0000062[0000062]MB)
   Initial license check status 
   Installing python SCA/Nastran DB interface - sp int
   Installing python SCA/Nastran DB interface - dp int
   Registering ActranVI (registered as ActranVI)
-  Initializing ActranVI                                                                              (time: 0000000.0000[0000016.4370]s, rmem: 0000336[0000336]MB, vmem: 0000310[0000310]MB)
+  Initializing ActranVI                                                                              (time: 0000000.0000[0000041.5329]s, rmem: 0000337[0000337]MB, vmem: 0000310[0000310]MB)
     
     ---- INFO ----
-    The session file is being written to C:\Users\tjmck\OneDrive\Documents\GitHub\CAD-Portfolio\Transmission Loss Box\Actran Project Files\report\ActranVI.2.sess
+    The session file is being written to C:\Users\tjmck\OneDrive\Documents\GitHub\CAD-Portfolio\Transmission Loss Box\Actran Project Files\report\ActranVI.3.sess
     --------------
     
     ---- INFO ----
     Vendor: NVIDIA Corporation. Model: NVIDIA GeForce RTX 4090 Laptop GPU/PCIe/SSE2. Driver : 4.5.0 NVIDIA 566.36
     --------------
-  ... done ( Initializing ActranVI )                                                                 (time: 0000006.5556[0000022.9821]s, rmem: 0000468[0000502]MB, vmem: 0000521[0000555]MB)
-  Load project C:\Users\tjmck\OneDrive\Documents\GitHub\CAD-Portfolio\Transmission Loss Box\Actran Project Files\TL_Box_Trail_2.apf (time: 0000000.0000[0000024.0622]s, rmem: 0000492[0000502]MB, vmem: 0000932[0000961]MB)
+  ... done ( Initializing ActranVI )                                                                 (time: 0000007.3784[0000048.9033]s, rmem: 0000471[0000504]MB, vmem: 0000524[0000558]MB)
+  Load project C:\Users\tjmck\OneDrive\Documents\GitHub\CAD-Portfolio\Transmission Loss Box\Actran Project Files\TL_Box_Trail_8.apf (time: 0000000.0000[0000049.9586]s, rmem: 0000496[0000504]MB, vmem: 0000936[0000965]MB)
    The domain counter global id has been synchronized between parallel processes : old value was 0, new value is 0.
-   Clearing all visualization                                                                        (time: 0000000.0000[0000024.0829]s, rmem: 0000492[0000502]MB, vmem: 0000932[0000961]MB)
-   ... done ( Clearing all visualization )                                                           (time: 0000000.0209[0000024.0933]s, rmem: 0000492[0000502]MB, vmem: 0000932[0000961]MB)
-   Clearing all analyses                                                                             (time: 0000000.0000[0000024.0933]s, rmem: 0000492[0000502]MB, vmem: 0000932[0000961]MB)
-   ... done ( Clearing all analyses )                                                                (time: 0000000.0103[0000024.1036]s, rmem: 0000492[0000502]MB, vmem: 0000932[0000961]MB)
-   Clearing all materials                                                                            (time: 0000000.0000[0000024.1084]s, rmem: 0000492[0000502]MB, vmem: 0000932[0000961]MB)
-   ... done ( Clearing all materials )                                                               (time: 0000000.0000[0000024.1084]s, rmem: 0000492[0000502]MB, vmem: 0000932[0000961]MB)
-   Clearing all tables                                                                               (time: 0000000.0000[0000024.1084]s, rmem: 0000492[0000502]MB, vmem: 0000932[0000961]MB)
-   ... done ( Clearing all tables )                                                                  (time: 0000000.0000[0000024.1084]s, rmem: 0000492[0000502]MB, vmem: 0000932[0000961]MB)
-   Clearing all arrays                                                                               (time: 0000000.0000[0000024.1084]s, rmem: 0000492[0000502]MB, vmem: 0000932[0000961]MB)
-   ... done ( Clearing all arrays )                                                                  (time: 0000000.0000[0000024.1084]s, rmem: 0000492[0000502]MB, vmem: 0000932[0000961]MB)
-   Clearing all topologies                                                                           (time: 0000000.0000[0000024.1084]s, rmem: 0000492[0000502]MB, vmem: 0000932[0000961]MB)
-   ... done ( Clearing all topologies )                                                              (time: 0000000.0000[0000024.1084]s, rmem: 0000492[0000502]MB, vmem: 0000932[0000961]MB)
+   Clearing all visualization                                                                        (time: 0000000.0000[0000050.1916]s, rmem: 0000496[0000504]MB, vmem: 0000936[0000965]MB)
+   ... done ( Clearing all visualization )                                                           (time: 0000000.0103[0000050.2019]s, rmem: 0000496[0000504]MB, vmem: 0000936[0000965]MB)
+   Clearing all analyses                                                                             (time: 0000000.0000[0000050.2019]s, rmem: 0000496[0000504]MB, vmem: 0000936[0000965]MB)
+   ... done ( Clearing all analyses )                                                                (time: 0000000.0104[0000050.2123]s, rmem: 0000496[0000504]MB, vmem: 0000936[0000965]MB)
+   Clearing all materials                                                                            (time: 0000000.0000[0000050.2123]s, rmem: 0000496[0000504]MB, vmem: 0000936[0000965]MB)
+   ... done ( Clearing all materials )                                                               (time: 0000000.0000[0000050.2123]s, rmem: 0000496[0000504]MB, vmem: 0000936[0000965]MB)
+   Clearing all tables                                                                               (time: 0000000.0000[0000050.2123]s, rmem: 0000496[0000504]MB, vmem: 0000936[0000965]MB)
+   ... done ( Clearing all tables )                                                                  (time: 0000000.0000[0000050.2123]s, rmem: 0000496[0000504]MB, vmem: 0000936[0000965]MB)
+   Clearing all arrays                                                                               (time: 0000000.0000[0000050.2123]s, rmem: 0000496[0000504]MB, vmem: 0000936[0000965]MB)
+   ... done ( Clearing all arrays )                                                                  (time: 0000000.0000[0000050.2123]s, rmem: 0000496[0000504]MB, vmem: 0000936[0000965]MB)
+   Clearing all topologies                                                                           (time: 0000000.0000[0000050.2123]s, rmem: 0000496[0000504]MB, vmem: 0000936[0000965]MB)
+   ... done ( Clearing all topologies )                                                              (time: 0000000.0000[0000050.2123]s, rmem: 0000496[0000504]MB, vmem: 0000936[0000965]MB)
    Changing current working directory to C:\Users\tjmck\OneDrive\Documents\GitHub\CAD-Portfolio\Transmission Loss Box\Actran Project Files (from C:\Users\tjmck\OneDrive\Documents\GitHub\CAD-Portfolio\Transmission Loss Box\Actran Project Files)
+   Creating mesh meta data for file (C:\Users\tjmck\OneDrive\Documents\GitHub\CAD-Portfolio\Transmission Loss Box\Actran Project Files\scratch_22040\000\apf_o4962ku3.tmp\30.nff) (time: 0000000.0000[0000050.2653]s, rmem: 0000498[0000504]MB, vmem: 0000938[0000965]MB)
+   ... done ( Creating mesh meta data for file (C:\Users\tjmck\OneDrive\Documents\GitHub\CAD-Portfolio\Transmission Loss Box\Actran Project Files\scratch_22040\000\apf_o4962ku3.tmp\30.nff) ) (time: 0000000.0080[0000050.2733]s, rmem: 0000498[0000504]MB, vmem: 0000938[0000965]MB)
+   Loading topological information of TOPOLOGY_30.nff 5[C:\Users\tjmck\OneDrive\Documents\GitHub\CAD-Portfolio\Transmission Loss Box\Actran Project Files\scratch_22040\000\apf_o4962ku3.tmp\30.nff] (time: 0000000.0000[0000050.2940]s, rmem: 0000498[0000504]MB, vmem: 0000938[0000965]MB)
+    Creating input container                                                                         (time: 0000000.0000[0000050.5084]s, rmem: 0000500[0000504]MB, vmem: 0000939[0000965]MB)
+     Construction MODE 1
+     Reading domains in NFF database.                                                                (time: 0000000.0000[0000050.5590]s, rmem: 0000500[0000504]MB, vmem: 0000939[0000965]MB)
+      Initializing domain properties and active state                                                (time: 0000000.0000[0000050.5590]s, rmem: 0000500[0000504]MB, vmem: 0000940[0000965]MB)
+
+       Reading 731050 topological elements from nastran_solid.0.quadratic.3.0.0                      (time: 0000000.0000[0000050.5590]s, rmem: 0000500[0000504]MB, vmem: 0000940[0000965]MB)
+       0%   10   20   30   40   50   60   70   80   90   100%
+       |----|----|----|----|----|----|----|----|----|----|
+       |
+       ... done ( Reading 731050 topological elements from nastran_solid.0.quadratic.3.0.0 )         (time: 0000000.0101[0000050.5692]s, rmem: 0000501[0000515]MB, vmem: 0000944[0000965]MB)
+
+       Reading 32008 topological elements from subelements.1.quadratic.2.0.0                         (time: 0000000.0000[0000050.5692]s, rmem: 0000501[0000515]MB, vmem: 0000944[0000965]MB)
+       0%   10   20   30   40   50   60   70   80   90   100%
+       |----|----|----|----|----|----|----|----|----|----|
+       |
+       ... done ( Reading 32008 topological elements from subelements.1.quadratic.2.0.0 )            (time: 0000000.0000[0000050.5692]s, rmem: 0000501[0000515]MB, vmem: 0000944[0000965]MB)
+       Creating domain nastran_solid.0.linear.3.0.0 (active:1)
+       nastran_solid.0.quadratic.3.0.0 active state will not be updated (1, [ ])
+       Creating domain subelements.1.linear.2.0.0 (active:1)
+       subelements.1.quadratic.2.0.0 active state will not be updated (1, [ ])
+       Reading 1236 topological elements from subelements.2.quadratic.2.0.0
+       Creating domain subelements.2.linear.2.0.0 (active:1)
+       subelements.2.quadratic.2.0.0 active state will not be updated (1, [ ])
+       Reading 1236 topological elements from subelements.3.quadratic.2.0.0
+       Creating domain subelements.3.linear.2.0.0 (active:1)
+       subelements.3.quadratic.2.0.0 active state will not be updated (1, [ ])
+      ... done ( Initializing domain properties and active state )                                   (time: 0000000.0207[0000050.5797]s, rmem: 0000501[0000515]MB, vmem: 0000944[0000965]MB)
+      Inserting vertices.                                                                            (time: 0000000.0000[0000050.5797]s, rmem: 0000501[0000515]MB, vmem: 0000944[0000965]MB)
+
+       Reading 731050 topological elements from nastran_solid.0.quadratic.3.0.0                      (time: 0000000.0000[0000050.5797]s, rmem: 0000501[0000515]MB, vmem: 0000944[0000965]MB)
+       0%   10   20   30   40   50   60   70   80   90   100%
+       |----|----|----|----|----|----|----|----|----|----|
+       ***************************************************
+       ... done ( Reading 731050 topological elements from nastran_solid.0.quadratic.3.0.0 )         (time: 0000000.0306[0000050.6103]s, rmem: 0000512[0000540]MB, vmem: 0000954[0000983]MB)
+
+       Reading 32008 topological elements from subelements.1.quadratic.2.0.0                         (time: 0000000.0000[0000050.6103]s, rmem: 0000512[0000540]MB, vmem: 0000954[0000983]MB)
+       0%   10   20   30   40   50   60   70   80   90   100%
+       |----|----|----|----|----|----|----|----|----|----|
+       ***************************************************
+       ... done ( Reading 32008 topological elements from subelements.1.quadratic.2.0.0 )            (time: 0000000.0113[0000050.6216]s, rmem: 0000513[0000540]MB, vmem: 0000954[0000983]MB)
+       Reading 1236 topological elements from subelements.2.quadratic.2.0.0
+       Reading 1236 topological elements from subelements.3.quadratic.2.0.0
+      ... done ( Inserting vertices. )                                                               (time: 0000000.0439[0000050.6236]s, rmem: 0000513[0000540]MB, vmem: 0000954[0000983]MB)
+      Inserting 1d, 2d and 3d topologies.                                                            (time: 0000000.0000[0000050.6236]s, rmem: 0000513[0000540]MB, vmem: 0000954[0000983]MB)
+
+       Reading 731050 topological elements from nastran_solid.0.quadratic.3.0.0                      (time: 0000000.0000[0000050.6236]s, rmem: 0000513[0000540]MB, vmem: 0000954[0000983]MB)
+       0%   10   20   30   40   50   60   70   80   90   100%
+       |----|----|----|----|----|----|----|----|----|----|
+       ***************************************************
+       ... done ( Reading 731050 topological elements from nastran_solid.0.quadratic.3.0.0 )         (time: 0000000.7483[0000051.3719]s, rmem: 0000584[0000605]MB, vmem: 0001023[0001044]MB)
+
+       Reading 32008 topological elements from subelements.1.quadratic.2.0.0                         (time: 0000000.0000[0000051.3808]s, rmem: 0000584[0000605]MB, vmem: 0001023[0001044]MB)
+       0%   10   20   30   40   50   60   70   80   90   100%
+       |----|----|----|----|----|----|----|----|----|----|
+       ***************************************************
+       ... done ( Reading 32008 topological elements from subelements.1.quadratic.2.0.0 )            (time: 0000000.0226[0000051.4033]s, rmem: 0000590[0000605]MB, vmem: 0001028[0001044]MB)
+       Reading 1236 topological elements from subelements.2.quadratic.2.0.0
+       Reading 1236 topological elements from subelements.3.quadratic.2.0.0
+      ... done ( Inserting 1d, 2d and 3d topologies. )                                               (time: 0000000.7797[0000051.4033]s, rmem: 0000590[0000605]MB, vmem: 0001028[0001044]MB)
+      Detection of isolated nodes                                                                    (time: 0000000.0000[0000051.8128]s, rmem: 0000571[0000623]MB, vmem: 0001010[0001062]MB)
+      ... done ( Detection of isolated nodes )                                                       (time: 0000000.0102[0000051.8128]s, rmem: 0000571[0000623]MB, vmem: 0001010[0001062]MB)
+      Updating external numbers for edge nodes.                                                      (time: 0000000.0000[0000051.8128]s, rmem: 0000571[0000623]MB, vmem: 0001010[0001062]MB)
+       Setting domain node name to: nastran_solid.0.quadratic.3.0.0 (old label was nastran_solid.0.linear.3.0.0 with global_id:0)
+       Setting domain node name to: subelements.1.quadratic.2.0.0 (old label was subelements.1.linear.2.0.0 with global_id:1)
+       Setting domain node name to: subelements.2.quadratic.2.0.0 (old label was subelements.2.linear.2.0.0 with global_id:2)
+       Setting domain node name to: subelements.3.quadratic.2.0.0 (old label was subelements.3.linear.2.0.0 with global_id:3)
+      ... done ( Updating external numbers for edge nodes. )                                         (time: 0000000.9133[0000052.7261]s, rmem: 0000662[0000679]MB, vmem: 0001087[0001104]MB)
+     ... done ( Reading domains in NFF database. )                                                   (time: 0000002.1671[0000052.7261]s, rmem: 0000662[0000679]MB, vmem: 0001087[0001104]MB)
+      
+      ---- INFO ----
+      Datablock None contains 4 domains (based on PID)
+      --------------
+    ... done ( Creating input container )                                                            (time: 0000002.2338[0000052.7421]s, rmem: 0000662[0000679]MB, vmem: 0001087[0001104]MB)
+    Reading boundary conditions                                                                      (time: 0000000.0000[0000052.7421]s, rmem: 0000662[0000679]MB, vmem: 0001087[0001104]MB)
+    ... done ( Reading boundary conditions )                                                         (time: 0000000.0000[0000052.7421]s, rmem: 0000662[0000679]MB, vmem: 0001087[0001104]MB)
+    Reading coordinates                                                                              (time: 0000000.0000[0000052.7421]s, rmem: 0000662[0000679]MB, vmem: 0001087[0001104]MB)
+     Reading Coordinate for subelements.1.quadratic.2.0.0(global_id: 1 - address:000001D4BD264E60 - dim:2 - fields:0a:0r - active:1) in NFF database.
+     Creating field for coordinates in domain subelements.1.quadratic.2.0.0
+     Reading Coordinate for subelements.2.quadratic.2.0.0(global_id: 2 - address:000001D4BD2675C0 - dim:2 - fields:0a:0r - active:1) in NFF database.
+     Creating field for coordinates in domain subelements.2.quadratic.2.0.0
+     Reading Coordinate for subelements.3.quadratic.2.0.0(global_id: 3 - address:000001D4BD2645F0 - dim:2 - fields:0a:0r - active:1) in NFF database.
+     Creating field for coordinates in domain subelements.3.quadratic.2.0.0
+     Reading Coordinate for nastran_solid.0.quadratic.3.0.0(global_id: 0 - address:000001D4BD264B90 - dim:3 - fields:0a:0r - active:1) in NFF database.
+     Creating field for coordinates in domain nastran_solid.0.quadratic.3.0.0
+    ... done ( Reading coordinates )                                                                 (time: 0000001.8798[0000054.6219]s, rmem: 0000755[0000778]MB, vmem: 0001387[0001456]MB)
+    Reading external numbering                                                                       (time: 0000000.0000[0000054.6219]s, rmem: 0000755[0000778]MB, vmem: 0001387[0001456]MB)
+     Reading ExternalNumbering for subelements.1.quadratic.2.0.0(global_id: 1 - address:000001D4BD264E60 - dim:2 - fields:2a:2r - active:1) in NFF database.
+     Creating field for external_element_numbering in domain subelements.1.quadratic.2.0.0
+     Reading ExternalNumbering for subelements.2.quadratic.2.0.0(global_id: 2 - address:000001D4BD2675C0 - dim:2 - fields:2a:2r - active:1) in NFF database.
+     Creating field for external_element_numbering in domain subelements.2.quadratic.2.0.0
+     Reading ExternalNumbering for subelements.3.quadratic.2.0.0(global_id: 3 - address:000001D4BD2645F0 - dim:2 - fields:2a:2r - active:1) in NFF database.
+     Creating field for external_element_numbering in domain subelements.3.quadratic.2.0.0
+     Reading ExternalNumbering for nastran_solid.0.quadratic.3.0.0(global_id: 0 - address:000001D4BD264B90 - dim:3 - fields:2a:2r - active:1) in NFF database.
+     Creating field for external_element_numbering in domain nastran_solid.0.quadratic.3.0.0
+    ... done ( Reading external numbering )                                                          (time: 0000000.0831[0000054.7050]s, rmem: 0000767[0000778]MB, vmem: 0001399[0001456]MB)
+    Aligning nastran_solid.0.quadratic.3.0.0
+    Filling 0 static items took 0".
+    Scanning nastran_solid.0.quadratic.3.0.0.1...
+    Scanning subelements.1.quadratic.2.0.0.2...
+    Scanning subelements.2.quadratic.2.0.0.4...
+    Scanning subelements.3.quadratic.2.0.0.5...
+    Filling 0 result items took 0".
+    0 result items were successfully copied.
+    Create set.3.linear.0.. topology                                                                 (time: 0000000.0000[0000055.1875]s, rmem: 0000767[0000778]MB, vmem: 0001399[0001456]MB)
+    ... done ( Create set.3.linear.0.. topology )                                                    (time: 0000000.0977[0000055.2852]s, rmem: 0000768[0000778]MB, vmem: 0001399[0001456]MB)
+   ... done ( Loading topological information of TOPOLOGY_30.nff 5[C:\Users\tjmck\OneDrive\Documents\GitHub\CAD-Portfolio\Transmission Loss Box\Actran Project Files\scratch_22040\000\apf_o4962ku3.tmp\30.nff] ) (time: 0000005.0160[0000055.2993]s, rmem: 0000768[0000778]MB, vmem: 0001399[0001456]MB)
+   Display TOPOLOGY_30.nff 5 (True)                                                                  (time: 0000000.0000[0000055.3098]s, rmem: 0000768[0000778]MB, vmem: 0001399[0001456]MB)
+   ... done ( Display TOPOLOGY_30.nff 5 (True) )                                                     (time: 0000001.4433[0000056.7531]s, rmem: 0000911[0001034]MB, vmem: 0001560[0001721]MB)
+   Creating mesh meta data for file (C:\Users\tjmck\OneDrive\Documents\GitHub\CAD-Portfolio\Transmission Loss Box\Actran Project Files\scratch_22040\000\apf_o4962ku3.tmp\52.nff) (time: 0000000.0000[0000056.8063]s, rmem: 0000911[0001034]MB, vmem: 0001560[0001721]MB)
+   ... done ( Creating mesh meta data for file (C:\Users\tjmck\OneDrive\Documents\GitHub\CAD-Portfolio\Transmission Loss Box\Actran Project Files\scratch_22040\000\apf_o4962ku3.tmp\52.nff) ) (time: 0000000.0000[0000056.8063]s, rmem: 0000911[0001034]MB, vmem: 0001560[0001721]MB)
+   Loading topological information of TOPOLOGY_52.nff 7[C:\Users\tjmck\OneDrive\Documents\GitHub\CAD-Portfolio\Transmission Loss Box\Actran Project Files\scratch_22040\000\apf_o4962ku3.tmp\52.nff] (time: 0000000.0000[0000056.8222]s, rmem: 0000911[0001034]MB, vmem: 0001560[0001721]MB)
+    Creating input container                                                                         (time: 0000000.0000[0000056.9495]s, rmem: 0000927[0001034]MB, vmem: 0001611[0001721]MB)
+     Construction MODE 1
+     Reading domains in NFF database.                                                                (time: 0000000.0000[0000056.9653]s, rmem: 0000927[0001034]MB, vmem: 0001611[0001721]MB)
+      Initializing domain properties and active state                                                (time: 0000000.0000[0000056.9653]s, rmem: 0000927[0001034]MB, vmem: 0001611[0001721]MB)
+       Reading 3 topological elements from Points.1.linear.0.0.0
+       Creating domain Points.1.linear.0.0.0 (active:1)
+       Points.1.linear.0.0.0 active state will not be updated (1, [ ])
+      ... done ( Initializing domain properties and active state )                                   (time: 0000000.0000[0000056.9653]s, rmem: 0000927[0001034]MB, vmem: 0001611[0001721]MB)
+      Inserting vertices.                                                                            (time: 0000000.0000[0000056.9653]s, rmem: 0000927[0001034]MB, vmem: 0001611[0001721]MB)
+       Reading 3 topological elements from Points.1.linear.0.0.0
+      ... done ( Inserting vertices. )                                                               (time: 0000000.0000[0000056.9653]s, rmem: 0000927[0001034]MB, vmem: 0001611[0001721]MB)
+      Inserting 1d, 2d and 3d topologies.                                                            (time: 0000000.0000[0000056.9653]s, rmem: 0000927[0001034]MB, vmem: 0001611[0001721]MB)
+       Reading 3 topological elements from Points.1.linear.0.0.0
+      ... done ( Inserting 1d, 2d and 3d topologies. )                                               (time: 0000000.0000[0000056.9653]s, rmem: 0000927[0001034]MB, vmem: 0001611[0001721]MB)
+      Detection of isolated nodes                                                                    (time: 0000000.0000[0000056.9653]s, rmem: 0000927[0001034]MB, vmem: 0001611[0001721]MB)
+      ... done ( Detection of isolated nodes )                                                       (time: 0000000.0000[0000056.9653]s, rmem: 0000927[0001034]MB, vmem: 0001611[0001721]MB)
+      Updating external numbers for edge nodes.                                                      (time: 0000000.0000[0000056.9653]s, rmem: 0000927[0001034]MB, vmem: 0001611[0001721]MB)
+      ... done ( Updating external numbers for edge nodes. )                                         (time: 0000000.0000[0000056.9653]s, rmem: 0000927[0001034]MB, vmem: 0001611[0001721]MB)
+     ... done ( Reading domains in NFF database. )                                                   (time: 0000000.0000[0000056.9653]s, rmem: 0000927[0001034]MB, vmem: 0001611[0001721]MB)
+      
+      ---- INFO ----
+      Datablock None contains 1 domains (based on PID)
+      --------------
+    ... done ( Creating input container )                                                            (time: 0000000.2106[0000057.1601]s, rmem: 0000926[0001034]MB, vmem: 0001659[0001729]MB)
+    Reading boundary conditions                                                                      (time: 0000000.0000[0000057.1601]s, rmem: 0000926[0001034]MB, vmem: 0001659[0001729]MB)
+    ... done ( Reading boundary conditions )                                                         (time: 0000000.0000[0000057.1601]s, rmem: 0000926[0001034]MB, vmem: 0001659[0001729]MB)
+    Reading coordinates                                                                              (time: 0000000.0000[0000057.1601]s, rmem: 0000926[0001034]MB, vmem: 0001659[0001729]MB)
+     Reading Coordinate for Points.1.linear.0.0.0(global_id: 4 - address:000001D4BD2664E0 - dim:0 - fields:0a:0r - active:1) in NFF database.
+     Creating field for coordinates in domain Points.1.linear.0.0.0
+    ... done ( Reading coordinates )                                                                 (time: 0000000.0116[0000057.1717]s, rmem: 0000926[0001034]MB, vmem: 0001659[0001729]MB)
+    Reading external numbering                                                                       (time: 0000000.0000[0000057.1717]s, rmem: 0000926[0001034]MB, vmem: 0001659[0001729]MB)
+     Reading ExternalNumbering for Points.1.linear.0.0.0(global_id: 4 - address:000001D4BD2664E0 - dim:0 - fields:2a:2r - active:1) in NFF database.
+     Creating field for external_element_numbering in domain Points.1.linear.0.0.0
+    ... done ( Reading external numbering )                                                          (time: 0000000.0000[0000057.1717]s, rmem: 0000926[0001034]MB, vmem: 0001659[0001729]MB)
+    Filling 0 static items took 0".
+    Scanning Points.1.linear.0.0.0.1...
+    Filling 0 result items took 0".
+    0 result items were successfully copied.
+    Create set.4.linear.0.. topology                                                                 (time: 0000000.0000[0000057.1717]s, rmem: 0000926[0001034]MB, vmem: 0001659[0001729]MB)
+    ... done ( Create set.4.linear.0.. topology )                                                    (time: 0000000.0334[0000057.2051]s, rmem: 0000926[0001034]MB, vmem: 0001659[0001729]MB)
+   ... done ( Loading topological information of TOPOLOGY_52.nff 7[C:\Users\tjmck\OneDrive\Documents\GitHub\CAD-Portfolio\Transmission Loss Box\Actran Project Files\scratch_22040\000\apf_o4962ku3.tmp\52.nff] ) (time: 0000000.3930[0000057.2152]s, rmem: 0000926[0001034]MB, vmem: 0001659[0001729]MB)
+   Display TOPOLOGY_52.nff 7 (True)                                                                  (time: 0000000.0000[0000057.2265]s, rmem: 0000926[0001034]MB, vmem: 0001659[0001729]MB)
+   ... done ( Display TOPOLOGY_52.nff 7 (True) )                                                     (time: 0000000.0040[0000057.2305]s, rmem: 0000926[0001034]MB, vmem: 0001659[0001729]MB)
     
     ---- FATAL ----
-    Syntax/Value error in setting property
-      property : result_type
-      object : Realisation selector 1 (Realisation Selector)
-      entered value : 'static'
-    
-    Error: Supported values are [] (node Realisation selector 1, attribute name result_type)
+    'Impervious' is not a supported boundary condition type for Actran Student Edition
     ---------------
     
     ---- FATAL ----
-    Syntax/Value error in setting property
-      property : static_load_case_id
-      object : Realisation selector 1 (Realisation Selector)
-      entered value : '0'
-    
-    Error: Supported values are [] (node Realisation selector 1, attribute name static_load_case_id)
+    Unexpected error:
+    The following python error occurred:
+      AssertionError()
     ---------------
-   Synchronizing operators                                                                           (time: 0000000.0000[0000024.3828]s, rmem: 0000495[0000502]MB, vmem: 0000936[0000961]MB)
-   ... done ( Synchronizing operators )                                                              (time: 0000000.0000[0000024.3828]s, rmem: 0000495[0000502]MB, vmem: 0000936[0000961]MB)
-   Synchronizing modules                                                                             (time: 0000000.0000[0000024.3828]s, rmem: 0000495[0000502]MB, vmem: 0000936[0000961]MB)
-   ... done ( Synchronizing modules )                                                                (time: 0000000.0000[0000024.3828]s, rmem: 0000495[0000502]MB, vmem: 0000936[0000961]MB)
-   Restoring current working directory to C:\Users\tjmck\OneDrive\Documents\GitHub\CAD-Portfolio\Transmission Loss Box\Actran Project Files (from C:\Users\tjmck\OneDrive\Documents\GitHub\CAD-Portfolio\Transmission Loss Box\Actran Project Files)
-  ... done ( Load project C:\Users\tjmck\OneDrive\Documents\GitHub\CAD-Portfolio\Transmission Loss Box\Actran Project Files\TL_Box_Trail_2.apf ) (time: 0000000.3346[0000024.3868]s, rmem: 0000495[0000502]MB, vmem: 0000936[0000961]MB)
+    
+    ---- FATAL ----
+    Unexpected error:
+    The following python error occurred:
+      AssertionError()
+    ---------------
+   Clearing all visualization                                                                        (time: 0000000.0000[0000094.8499]s, rmem: 0000929[0001034]MB, vmem: 0001440[0001729]MB)
+   ... done ( Clearing all visualization )                                                           (time: 0000000.0098[0000094.8521]s, rmem: 0000929[0001034]MB, vmem: 0001440[0001729]MB)
+   Clearing all analyses                                                                             (time: 0000000.0000[0000094.8521]s, rmem: 0000929[0001034]MB, vmem: 0001440[0001729]MB)
+   ... done ( Clearing all analyses )                                                                (time: 0000000.0298[0000094.8819]s, rmem: 0000929[0001034]MB, vmem: 0001440[0001729]MB)
+   Clearing all materials                                                                            (time: 0000000.0000[0000094.8819]s, rmem: 0000929[0001034]MB, vmem: 0001440[0001729]MB)
+   ... done ( Clearing all materials )                                                               (time: 0000000.0474[0000094.9293]s, rmem: 0000929[0001034]MB, vmem: 0001440[0001729]MB)
+   Clearing all tables                                                                               (time: 0000000.0000[0000094.9293]s, rmem: 0000929[0001034]MB, vmem: 0001440[0001729]MB)
+   ... done ( Clearing all tables )                                                                  (time: 0000000.0000[0000094.9293]s, rmem: 0000929[0001034]MB, vmem: 0001440[0001729]MB)
+   Clearing all arrays                                                                               (time: 0000000.0000[0000094.9293]s, rmem: 0000929[0001034]MB, vmem: 0001440[0001729]MB)
+   ... done ( Clearing all arrays )                                                                  (time: 0000000.0000[0000094.9293]s, rmem: 0000929[0001034]MB, vmem: 0001440[0001729]MB)
+   Clearing all topologies                                                                           (time: 0000000.0000[0000094.9293]s, rmem: 0000929[0001034]MB, vmem: 0001440[0001729]MB)
+    Topology new_set0.0.... 4 removed
+    Topology File_topology 6 removed
+    Input NFF driver destroyed (C:\Users\tjmck\OneDrive\Documents\GitHub\CAD-Portfolio\Transmission Loss Box\Actran Project Files\scratch_22040\000\apf_o4962ku3.tmp\30.nff\top.0.....0)
+    Topology File_topology 7 removed
+    Input NFF driver destroyed (C:\Users\tjmck\OneDrive\Documents\GitHub\CAD-Portfolio\Transmission Loss Box\Actran Project Files\scratch_22040\000\apf_o4962ku3.tmp\52.nff\top.0.....0)
+   ... done ( Clearing all topologies )                                                              (time: 0000000.0799[0000095.0092]s, rmem: 0000525[0001034]MB, vmem: 0001018[0001729]MB)
+   Unregistering ActranVI (registered as ActranVI)
+   Exiting application
+  ... done ( Load project C:\Users\tjmck\OneDrive\Documents\GitHub\CAD-Portfolio\Transmission Loss Box\Actran Project Files\TL_Box_Trail_8.apf ) (time: 0000045.3793[0000095.3352]s, rmem: 0000513[0001034]MB, vmem: 0000746[0001729]MB)
    
-   ---- INFO ----
-   A new version of Actran Student Edition (2025.1) is available for download. A browser window will now open the student download center (https://hexagon.com/products/actran-student-edition).
-   --------------
-  Clearing all visualization                                                                         (time: 0000000.0000[0000193.7929]s, rmem: 0000550[0000550]MB, vmem: 0000962[0001344]MB)
-  ... done ( Clearing all visualization )                                                            (time: 0000000.0247[0000193.8080]s, rmem: 0000550[0000550]MB, vmem: 0000962[0001344]MB)
-  Clearing all analyses                                                                              (time: 0000000.0000[0000193.8080]s, rmem: 0000550[0000550]MB, vmem: 0000962[0001344]MB)
-  ... done ( Clearing all analyses )                                                                 (time: 0000000.0401[0000193.8480]s, rmem: 0000550[0000550]MB, vmem: 0000962[0001344]MB)
-  Clearing all materials                                                                             (time: 0000000.0000[0000193.8480]s, rmem: 0000550[0000550]MB, vmem: 0000962[0001344]MB)
-  ... done ( Clearing all materials )                                                                (time: 0000000.0051[0000193.8531]s, rmem: 0000550[0000550]MB, vmem: 0000962[0001344]MB)
-  Clearing all tables                                                                                (time: 0000000.0000[0000193.8531]s, rmem: 0000550[0000550]MB, vmem: 0000962[0001344]MB)
-  ... done ( Clearing all tables )                                                                   (time: 0000000.0000[0000193.8531]s, rmem: 0000550[0000550]MB, vmem: 0000962[0001344]MB)
-  Clearing all arrays                                                                                (time: 0000000.0000[0000193.8531]s, rmem: 0000550[0000550]MB, vmem: 0000962[0001344]MB)
-  ... done ( Clearing all arrays )                                                                   (time: 0000000.0000[0000193.8531]s, rmem: 0000550[0000550]MB, vmem: 0000962[0001344]MB)
-  Clearing all topologies                                                                            (time: 0000000.0000[0000193.8531]s, rmem: 0000550[0000550]MB, vmem: 0000962[0001344]MB)
-   Topology new_set0.0.... 1 removed
-   Topology new_set1.0.... 2 removed
-   Topology new_set2.0.... 4 removed
-  ... done ( Clearing all topologies )                                                               (time: 0000000.0153[0000193.8684]s, rmem: 0000550[0000550]MB, vmem: 0000962[0001344]MB)
-  Unregistering ActranVI (registered as ActranVI)
-  Exiting application
+   ---- FATAL ----
+   Unexpected error:
+   The following python error occurred:
+     AttributeError("'NoneType' object has no attribute 'synchronize'")
+   ---------------
   on processor 0/1: Done executing VI
-  Detecting thrown exception...                                                                      (time: 0000000.0000[0000194.2028]s, rmem: 0000542[0000550]MB, vmem: 0000730[0001344]MB)
+  Detecting thrown exception...                                                                      (time: 0000000.0000[0000095.4230]s, rmem: 0000505[0001034]MB, vmem: 0000736[0001729]MB)
    No thrown exception to handle.
-  ... done ( Detecting thrown exception... )                                                         (time: 0000000.0000[0000194.2028]s, rmem: 0000542[0000550]MB, vmem: 0000730[0001344]MB)
+  ... done ( Detecting thrown exception... )                                                         (time: 0000000.0000[0000095.4230]s, rmem: 0000505[0001034]MB, vmem: 0000736[0001729]MB)
   Retrieving FEMPy return code...
   ...done
- ... done ( Launching application )                                                                  (time: 0000183.9897[0000194.2028]s, rmem: 0000542[0000550]MB, vmem: 0000730[0001344]MB)
- Finalizing                                                                                          (time: 0000000.0000[0000194.3779]s, rmem: 0000542[0000550]MB, vmem: 0000730[0001344]MB)
+ ... done ( Launching application )                                                                  (time: 0000085.0129[0000095.4240]s, rmem: 0000505[0001034]MB, vmem: 0000736[0001729]MB)
+ Finalizing                                                                                          (time: 0000000.0000[0000095.5794]s, rmem: 0000505[0001034]MB, vmem: 0000736[0001729]MB)
   Py_Finalize...
   ...done
   done finalizing on processor 0/1
- ... done ( Finalizing )                                                                             (time: 0000000.9649[0000195.3428]s, rmem: 0000477[0000550]MB, vmem: 0000668[0001344]MB)
+ ... done ( Finalizing )                                                                             (time: 0000000.9163[0000096.4957]s, rmem: 0000443[0001034]MB, vmem: 0000674[0001729]MB)
  The file C:/Users/tjmck/OneDrive/Documents/GitHub/CAD-Portfolio/Transmission Loss Box/Actran Project Files/report/resources.json was dumped.
- ControlHandle destruction                                                                           (time: 0000000.0000[0000195.3428]s, rmem: 0000477[0000550]MB, vmem: 0000668[0001344]MB)
- Cancelling control thread                                                                           (time: 0000000.0000[0000195.3428]s, rmem: 0000477[0000550]MB, vmem: 0000668[0001344]MB)
- Control thread cancelled                                                                            (time: 0000000.0000[0000195.3428]s, rmem: 0000477[0000550]MB, vmem: 0000668[0001344]MB)
+ ControlHandle destruction                                                                           (time: 0000000.0000[0000096.5113]s, rmem: 0000443[0001034]MB, vmem: 0000674[0001729]MB)
+ Cancelling control thread                                                                           (time: 0000000.0000[0000096.5113]s, rmem: 0000443[0001034]MB, vmem: 0000674[0001729]MB)
+ Control thread cancelled                                                                            (time: 0000000.0000[0000096.5123]s, rmem: 0000443[0001034]MB, vmem: 0000674[0001729]MB)
  Last rendez-vous before resources handling
- Memory used in processor 0: 550MB
- Memory across all processors: 550MB
+ Memory used in processor 0: 1034MB
+ Memory across all processors: 1034MB
 Terminating
 
- 195.350815s wall, 21.093750s user + 8.375000s system = 29.468750s CPU (15.1%)
+ 96.534544s wall, 18.906250s user + 6.078125s system = 24.984375s CPU (25.9%)
 
