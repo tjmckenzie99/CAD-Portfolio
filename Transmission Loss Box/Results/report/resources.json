@@ -1,0 +1,11 @@
+{
+	"command_line" : "C:\\Program Files\\MSC.Software\\Actran\\Actran_Student_Edition_2024.2\\bin\\actranpy.exe --utility=PLTViewer --no_console_window C:\\Users\\tjmck\\OneDrive\\Documents\\GitHub\\CAD-Portfolio\\Transmission Loss Box\\Results\\field_point_results(2).plt ",
+	"comments" : "the license data stores for each FEATURE a dictionnary as such (the number of seats to be used, the number of MSC One tokens to be used) for this run and the resources data stores estimated memory requirements for this run",
+	"warnings" : [
+		"the number of MSC One tokens to be used is relevant if the licensing server is using MSC One tokens."
+	],
+	"license" : {
+	},
+	"resources" : {
+	}
+}

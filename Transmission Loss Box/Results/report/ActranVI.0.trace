@@ -1,0 +1,235 @@
+ Actran Student Edition detected
+ Student Edition licensing mode
+ Identified license type : STUDENT EDITION.
+  
+  ---- INFO ----
+  Using Actran Student Edition including a limited set of functionalities.
+  --------------
+ Application information                                                                             (time: 0000000.0000[0000008.1222]s, rmem: 0000041[0000041]MB, vmem: 0000035[0000036]MB)
+  Command line : C:\Program Files\MSC.Software\Actran\Actran_Student_Edition_2024.2\bin\actranpy.exe --utility=PLTViewer --no_console_window C:\Users\tjmck\OneDrive\Documents\GitHub\CAD-Portfolio\Transmission Loss Box\Results\field_point_results(2).plt 
+  Env :
+    PATH : C:\Program Files\MSC.Software\Actran\Actran_Student_Edition_2024.2\bin;C:\Program Files (x86)\Common Files\Oracle\Java\java8path;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\NVIDIA Corporation\NVIDIA app\NvDLISR;C:\Program Files\dotnet\;C:\Program Files\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files\TortoiseSVN\bin;C:\Program Files\MATLAB\R2024b\bin;C:\Program Files (x86)\Windows Kits\8.1\Windows Performance Toolkit\;C:\Program Files (x86)\Windows Kits\10\Windows Performance Toolkit\;C:\Program Files\MSC.Software\Actran\bin;C:\Users\tjmck\AppData\Local\Microsoft\WindowsApps;C:\Users\tjmck\AppData\Local\GitHubDesktop\bin;C:\Users\tjmck\.lmstudio\bin;%USERPROFILE%\AppData\Local\Microsoft\WindowsApps;
+  Application : PLTViewer
+  Blas : Mkl-202221
+  Boost : Boost-108200
+  Branch : HEAD
+  Build : Oct 14 2024 at 00:19:23 by ContainerAdministrator (release)
+  Cad : Cad-916062
+  Commit : 0bf38f62e6efed3a2fcb48f8199d1f886fb485c8
+  Cuda : Cuda-120200
+  Env : 10.0.19042.2
+  Executable : actranpy
+  Hdf5 : Hdf5-1107
+  Hwloc : Hwloc-293
+  Lic : Lapi-2221
+  Mesh mdmgc : 729743
+  Mesh tetmesh : 704714
+  Metis : Metis-510
+  Mpi : IntelMPI-202104060
+  Mumps : Mumps-573
+  OS : Windows 6.2.9200.0.0 (workstation x64)
+  Platform : windows-vs143-x86-64
+  Python : Python-3116
+  Scotch : Scotch-704
+  Toolchain : Microsoft Visual Studio C++ 193431933
+  Vtk : Vtk-922
+ ... done ( Application information )                                                                (time: 0000000.0000[0000008.1222]s, rmem: 0000041[0000041]MB, vmem: 0000035[0000036]MB)
+ Types information                                                                                   (time: 0000000.0000[0000008.1222]s, rmem: 0000041[0000041]MB, vmem: 0000035[0000036]MB)
+  sizeof( int )    : 4 bytes
+  sizeof( long )   : 4 bytes
+  sizeof( float )  : 4 bytes
+  sizeof( double ) : 8 bytes
+  sizeof( void* )  : 8 bytes
+ ... done ( Types information )                                                                      (time: 0000000.0000[0000008.1222]s, rmem: 0000041[0000041]MB, vmem: 0000035[0000036]MB)
+ Licensing information                                                                               (time: 0000000.0000[0000008.1222]s, rmem: 0000041[0000041]MB, vmem: 0000035[0000036]MB)
+  server : 1700@localhost
+  user   :   tjmck@Zephyrus
+ ... done ( Licensing information )                                                                  (time: 0000000.0000[0000008.1222]s, rmem: 0000041[0000041]MB, vmem: 0000035[0000036]MB)
+ CPU check                                                                                           (time: 0000000.0000[0000008.1222]s, rmem: 0000041[0000041]MB, vmem: 0000035[0000036]MB)
+ ... done ( CPU check )                                                                              (time: 0000000.0000[0000008.1222]s, rmem: 0000041[0000041]MB, vmem: 0000035[0000036]MB)
+ Platform software limits                                                                            (time: 0000000.0000[0000008.1222]s, rmem: 0000041[0000041]MB, vmem: 0000035[0000036]MB)
+  Maximum CPU time (s)           : unlimited
+  Maximum Working Set Size (MB)  : unlimited
+  Commit limit (MB)              : 134217727
+ ... done ( Platform software limits )                                                               (time: 0000000.0000[0000008.1222]s, rmem: 0000041[0000041]MB, vmem: 0000035[0000036]MB)
+ Multi-threading handling                                                                            (time: 0000000.0000[0000008.1222]s, rmem: 0000041[0000041]MB, vmem: 0000035[0000036]MB)
+  ACTRAN_BLAS_DYNAMIC_THREADS (1).
+  ACTRAN_CORE_DYNAMIC_THREADS (0).
+  ACTRAN_CORE_MAX_ACTIVE_LEVELS_THREADS (2).
+    mt-global : 1
+    mt-blas : 1
+    mt-assembly : 1
+    mt-gradient : 1
+    mt-integrate : 1
+    mt-kirchoff : 1
+    mt-sngr : 1
+    mt-component : 1
+    mt-locate : 1
+    mt-dgm : 1
+    mt-mesh : 1
+    mt-field_check : 1
+    mt-finalize : 1
+    mt-base : 1
+ ... done ( Multi-threading handling )                                                               (time: 0000000.0080[0000008.1302]s, rmem: 0000042[0000042]MB, vmem: 0000042[0000042]MB)
+ Initializing MPI module consumes 10.0234 MB.
+ Creating ControlHandle                                                                              (time: 0000000.0000[0000008.1302]s, rmem: 0000042[0000042]MB, vmem: 0000042[0000042]MB)
+ Period: 250000                                                                                      (time: 0000000.0000[0000008.1302]s, rmem: 0000042[0000042]MB, vmem: 0000042[0000042]MB)
+ Probe periodicity: 40                                                                               (time: 0000000.0000[0000008.1302]s, rmem: 0000042[0000042]MB, vmem: 0000042[0000042]MB)
+ Timeout: 0                                                                                          (time: 0000000.0000[0000008.1302]s, rmem: 0000042[0000042]MB, vmem: 0000042[0000042]MB)
+ Done creating ControlHandle                                                                         (time: 0000000.0000[0000008.1302]s, rmem: 0000042[0000042]MB, vmem: 0000042[0000042]MB)
+ Starting control thread                                                                             (time: 0000000.0000[0000008.1302]s, rmem: 0000042[0000042]MB, vmem: 0000042[0000042]MB)
+ Control thread started                                                                              (time: 0000000.0000[0000008.1302]s, rmem: 0000042[0000042]MB, vmem: 0000042[0000042]MB)
+ HDF5 diagnostics : mute.
+ The working directory is shared between all processes (C:/Users/tjmck/OneDrive/Documents/GitHub/CAD-Portfolio/Transmission Loss Box/Results).
+ Initializing FEMPy interpreter                                                                      (time: 0000000.0000[0000008.1930]s, rmem: 0000045[0000045]MB, vmem: 0000043[0000043]MB)
+  PYTHONHOME is set to :C:\Program Files\MSC.Software\Actran\Actran_Student_Edition_2024.2.
+  Initializing Python consumes 4.414MB.
+  actranpy.exe is running on processor 0/1
+  Importing sys module in Python consumes 0.000MB.
+  Importing os and sys modules in Python consumes 0.000MB.
+ ... done ( Initializing FEMPy interpreter )                                                         (time: 0000000.0615[0000008.2545]s, rmem: 0000049[0000049]MB, vmem: 0000044[0000044]MB)
+ MSC Customer entitlement ID : a05ea435-G7FED1D1
+ Launching application                                                                               (time: 0000000.0000[0000010.2712]s, rmem: 0000049[0000049]MB, vmem: 0000045[0000045]MB)
+  Installing SUSPEND/RESUME signals                                                                  (time: 0000000.0000[0000010.2722]s, rmem: 0000050[0000050]MB, vmem: 0000045[0000045]MB)
+  ... done ( Installing SUSPEND/RESUME signals )                                                     (time: 0000000.0000[0000010.2722]s, rmem: 0000050[0000050]MB, vmem: 0000045[0000045]MB)
+  Platform topology scanning                                                                         (time: 0000000.0000[0000010.2722]s, rmem: 0000050[0000050]MB, vmem: 0000045[0000045]MB)
+   Platform topology loaded
+   An hybrid processor architecture was detected. Selecting 'Performance' and 'Efficient' cores.
+   Checking architecture heterogeneity on 1 process                                                  (time: 0000000.0000[0000010.2722]s, rmem: 0000050[0000050]MB, vmem: 0000045[0000045]MB)
+    all nodes have the same number of cores (16), pus (22), L2 caches (9), L3 caches (1), sockets (1) and gpus (0).
+   ... done ( Checking architecture heterogeneity on 1 process )                                     (time: 0000000.0000[0000010.2722]s, rmem: 0000050[0000050]MB, vmem: 0000045[0000045]MB)
+  ... done ( Platform topology scanning )                                                            (time: 0000000.0000[0000010.2722]s, rmem: 0000050[0000050]MB, vmem: 0000045[0000045]MB)
+  Process affinity handling                                                                          (time: 0000000.0000[0000010.2722]s, rmem: 0000050[0000050]MB, vmem: 0000045[0000045]MB)
+   Detected process affinity request : auto
+      16 unbound cores found
+   Core footprint minimization not selected.
+     On Zephyrus:10528 with rank 0, process auto affinity was successfully applied.
+   Process affinity : 0:0 1:0 2:0 3:0 4:0 5:0 6:0 7:0 8:0 9:0 10:0 11:0 12:0 13:0 14:0 15:1 ( cpuset : 0x00200000 )
+  ... done ( Process affinity handling )                                                             (time: 0000000.0326[0000010.3048]s, rmem: 0000050[0000051]MB, vmem: 0000045[0000046]MB)
+  Initializing FEMTown modules                                                                       (time: 0000000.0000[0000010.3048]s, rmem: 0000050[0000051]MB, vmem: 0000045[0000046]MB)
+   Loading numpy module
+   Loading FEMTown module main consumes 0.043MB.
+   Loading FEMTown module gc consumes 0.012MB.
+   Loading FEMTown module command consumes 0.020MB.
+   Loading FEMTown module BEM consumes 0.004MB.
+   Loading FEMTown module ITM consumes 0.008MB.
+   Loading FEMTown module domain consumes 0.039MB.
+   Loading FEMTown module platform consumes 0.012MB.
+   Loading FEMTown module mayor consumes 0.008MB.
+   Loading FEMTown module graph consumes 0.008MB.
+   Loading FEMTown module geometry consumes 0.008MB.
+   Loading FEMTown module interp consumes 0.012MB.
+   Loading FEMTown module math consumes 0.008MB.
+   Loading FEMTown module directsolver consumes 0.004MB.
+   Loading FEMTown module distribution consumes 0.008MB.
+   Loading FEMTown module driver consumes 0.184MB.
+   Loading FEMTown module infinite_element consumes 0.008MB.
+   Loading FEMTown module material consumes 0.195MB.
+   Loading FEMTown module time_integration consumes 2.004MB.
+   Loading FEMTown module modalextraction consumes 0.066MB.
+   Loading FEMTown module solveroptions consumes 0.012MB.
+   Loading FEMTown module ublas_dense_ext consumes 0.031MB.
+   Loading FEMTown module ublas_sparse_ext consumes 0.352MB.
+   Loading FEMTown module cusolverdn consumes 0.016MB.
+   Loading FEMTown module utilities consumes 0.125MB.
+   Loading FEMTown module component consumes 2.016MB.
+   Loading FEMTown module field consumes 0.152MB.
+   Loading FEMTown module solverdriver consumes 0.016MB.
+   Loading FEMTown module dg_element consumes 0.004MB.
+   Loading FEMTown module dg_sub_element consumes 0.004MB.
+   Loading FEMTown module dg_component consumes 0.188MB.
+   Loading FEMTown module dg_sources consumes 0.008MB.
+   Loading FEMTown module dg_utilities consumes 0.004MB.
+   Loading FEMTown module cfd_driver consumes 0.219MB.
+   Loading FEMTown module cfd_fem_driver consumes 0.000MB.
+   Loading FEMTown module femtown2vtk consumes 0.008MB.
+   Loading FEMTown module mesh consumes 0.027MB.
+   Loading FEMTown module cad_translator consumes 0.012MB.
+  ... done ( Initializing FEMTown modules )                                                          (time: 0000001.9406[0000012.2454]s, rmem: 0000078[0000078]MB, vmem: 0000062[0000062]MB)
+  Loading pyfemtown module                                                                           (time: 0000000.0000[0000012.2661]s, rmem: 0000078[0000078]MB, vmem: 0000062[0000062]MB)
+  ... done ( Loading pyfemtown module )                                                              (time: 0000000.0074[0000012.2736]s, rmem: 0000078[0000078]MB, vmem: 0000062[0000062]MB)
+  Initial license check status 
+  Installing python SCA/Nastran DB interface - sp int
+  Installing python SCA/Nastran DB interface - dp int
+  Initializing PLTViewer                                                                             (time: 0000000.0000[0000032.7933]s, rmem: 0000268[0000268]MB, vmem: 0000248[0000248]MB)
+   Registering PLTViewer (registered as PLTViewer)
+    
+    ---- INFO ----
+    The session file is being written to C:\Users\tjmck\OneDrive\Documents\GitHub\CAD-Portfolio\Transmission Loss Box\Results\report\ActranVI.0.sess
+    --------------
+  ... done ( Initializing PLTViewer )                                                                (time: 0000001.9038[0000034.6972]s, rmem: 0000291[0000291]MB, vmem: 0000263[0000276]MB)
+  Importing the PLT file "C:\Users\tjmck\OneDrive\Documents\GitHub\CAD-Portfolio\Transmission Loss Box\Results\field_point_results(2).plt" (time: 0000000.0000[0000035.0123]s, rmem: 0000294[0000294]MB, vmem: 0000267[0000276]MB)
+  ... done ( Importing the PLT file "C:\Users\tjmck\OneDrive\Documents\GitHub\CAD-Portfolio\Transmission Loss Box\Results\field_point_results(2).plt" ) (time: 0000000.0511[0000035.0533]s, rmem: 0000294[0000294]MB, vmem: 0000267[0000276]MB)
+   
+   ---- INFO ----
+   Global indicators on func_1 :
+   OrderedDict([('osl', [numpy.array([], dtype=numpy.float64)]),
+                ('integral', [numpy.array([], dtype=numpy.float64)]),
+                ('mean_value', [numpy.array([], dtype=numpy.float64)]),
+                ('rwcctr', [numpy.array([], dtype=numpy.float64)]),
+                ('stc', [numpy.array([], dtype=numpy.float64)]),
+                ('oitc', [numpy.array([], dtype=numpy.float64)]),
+                ('max_y', [numpy.array([], dtype=numpy.float64)]),
+                ('min_y', [numpy.array([], dtype=numpy.float64)]),
+                ('rms', [numpy.array([], dtype=numpy.float64)]),
+                ('rms_psd', [numpy.array([], dtype=numpy.float64)]),
+                ('loudness', [numpy.array([], dtype=numpy.float64)]),
+                ('sharpness', [numpy.array([], dtype=numpy.float64)])])
+   --------------
+   
+   ---- INFO ----
+   Global indicators on func_2 :
+   OrderedDict([('osl', [numpy.array([], dtype=numpy.float64)]),
+                ('integral', [numpy.array([], dtype=numpy.float64)]),
+                ('mean_value', [numpy.array([], dtype=numpy.float64)]),
+                ('rwcctr', [numpy.array([], dtype=numpy.float64)]),
+                ('stc', [numpy.array([], dtype=numpy.float64)]),
+                ('oitc', [numpy.array([], dtype=numpy.float64)]),
+                ('max_y', [numpy.array([], dtype=numpy.float64)]),
+                ('min_y', [numpy.array([], dtype=numpy.float64)]),
+                ('rms', [numpy.array([], dtype=numpy.float64)]),
+                ('rms_psd', [numpy.array([], dtype=numpy.float64)]),
+                ('loudness', [numpy.array([], dtype=numpy.float64)]),
+                ('sharpness', [numpy.array([], dtype=numpy.float64)])])
+   --------------
+   
+   ---- INFO ----
+   Global indicators on func_2 :
+   OrderedDict([('osl', [numpy.array([ 127.08270724])]),
+                ('integral', [numpy.array([ 322739.17502952])]),
+                ('mean_value', [numpy.array([ 80.88701129])]),
+                ('rwcctr', [numpy.array([], dtype=numpy.float64)]),
+                ('stc', [numpy.array([], dtype=numpy.float64)]),
+                ('oitc', [numpy.array([], dtype=numpy.float64)]),
+                ('max_y', [numpy.array([ 112.22459])]),
+                ('min_y', [numpy.array([ 49.46423743])]),
+                ('rms', [numpy.array([ 91.07297828])]),
+                ('rms_psd', [numpy.array([ 127.08270724])]),
+                ('loudness', [numpy.array([ 569.18])]),
+                ('sharpness', [numpy.array([ 1.83739613])])])
+   --------------
+  Unregistering PLTViewer (registered as PLTViewer)
+  Exiting application
+  on processor 0/1: Done executing PLTViewer
+  Detecting thrown exception...                                                                      (time: 0000000.0000[0000117.0140]s, rmem: 0000375[0000381]MB, vmem: 0000317[0000323]MB)
+   No thrown exception to handle.
+  ... done ( Detecting thrown exception... )                                                         (time: 0000000.0000[0000117.0140]s, rmem: 0000375[0000381]MB, vmem: 0000317[0000323]MB)
+  Retrieving FEMPy return code...
+  ...done
+ ... done ( Launching application )                                                                  (time: 0000106.7428[0000117.0140]s, rmem: 0000375[0000381]MB, vmem: 0000317[0000323]MB)
+ Finalizing                                                                                          (time: 0000000.0000[0000117.1371]s, rmem: 0000375[0000381]MB, vmem: 0000317[0000323]MB)
+  Py_Finalize...
+  ...done
+  done finalizing on processor 0/1
+ ... done ( Finalizing )                                                                             (time: 0000000.7330[0000117.8702]s, rmem: 0000300[0000381]MB, vmem: 0000242[0000323]MB)
+ The file C:/Users/tjmck/OneDrive/Documents/GitHub/CAD-Portfolio/Transmission Loss Box/Results/report/resources.json was dumped.
+ ControlHandle destruction                                                                           (time: 0000000.0000[0000117.8724]s, rmem: 0000297[0000381]MB, vmem: 0000237[0000323]MB)
+ Cancelling control thread                                                                           (time: 0000000.0000[0000117.8724]s, rmem: 0000297[0000381]MB, vmem: 0000237[0000323]MB)
+ Control thread cancelled                                                                            (time: 0000000.0000[0000117.8808]s, rmem: 0000297[0000381]MB, vmem: 0000237[0000323]MB)
+ Last rendez-vous before resources handling
+ Memory used in processor 0: 381MB
+ Memory across all processors: 381MB
+Terminating
+
+ 117.880069s wall, 15.250000s user + 8.046875s system = 23.296875s CPU (19.8%)
+

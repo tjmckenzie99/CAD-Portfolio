@@ -1,0 +1,21 @@
+
+#================ DO NOT SUPRESS OR EDIT THIS LINE AND THE LINES BELOW ==================
+#
+#  Actran Student Edition 2024.2 Session file
+#
+#  Hostname  : Zephyrus - Windows 6.2.9200.0.0 (workstation x64)
+#  Processor : 22x Intel(R) Core(TM) Ultra 9 185H
+#  Memory    : 18430MB [ 57% of 32173MB available ]
+#=========================== DO NOT EDIT THE ABOVE LINES ================================
+  
+  
+pltviewer_1 = PLTViewer()
+set_1 = pltviewer_1.import_file(file=r'C:\Users\tjmck\OneDrive\Documents\GitHub\CAD-Portfolio\Transmission Loss Box\Results\field_point_results(2).plt', ftype='plt')
+func_1 = pltviewer_1.new_func()
+pltviewer_1.update_func(func=func_1, x='{set_1["DOMAIN", "InfiniteAcoustic1", "f"]}', y='dB_pressure({set_1["DOMAIN", "InfiniteAcoustic1", "rP"]})')
+curve_1 = pltviewer_1.plot( function=func_1, figure=pltviewer_1.get_figure( id=1 ) , label='DOMAIN InfiniteAcoustic1' )
+pltviewer_1.set_prop( pltviewer_1.get_figure( id=1 ), xlabel='Frequency [Hz]', ylabel='Rad_Power (dB_pressure (ref=2e-05 $\\mathrm{Pa}$))' )
+func_2 = pltviewer_1.new_func()
+pltviewer_1.update_func(func=func_2, x='{set_1["POINT_1", "1", "f"]}', y='dB_pressure({set_1["POINT_1", "1", "fp"]})')
+curve_2 = pltviewer_1.plot( function=func_2, figure=pltviewer_1.get_figure( id=1 ) , label='POINT_1 1' )
+pltviewer_1.set_prop( pltviewer_1.get_figure( id=1 ), default_xlabel='Frequency [Hz]', default_ylabel='Fluid_P (dB_pressure (ref=2e-05 $\\mathrm{Pa}$))' )

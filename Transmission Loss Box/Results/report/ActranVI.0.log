@@ -1,0 +1,16 @@
+ Student Edition licensing mode
+  
+  ---- INFO ----
+  Using Actran Student Edition including a limited set of functionalities.
+  --------------
+
+  Initializing PLTViewer                                                                             (time: 00s, total: 32s, mem: 268[268]MB)
+    
+    ---- INFO ----
+    The session file is being written to C:\Users\tjmck\OneDrive\Documents\GitHub\CAD-Portfolio\Transmission Loss Box\Results\report\ActranVI.0.sess
+    --------------
+  ... done ( Initializing PLTViewer )                                                                (time: 01s, total: 34s, mem: 291[291]MB)
+
+  Importing the PLT file "C:\Users\tjmck\OneDrive\Documents\GitHub\CAD-Portfolio\Transmission Loss Box\Results\field_point_results(2).plt" (time: 00s, total: 35s, mem: 294[294]MB)
+  ... done ( Importing the PLT file "C:\Users\tjmck\OneDrive\Documents\GitHub\CAD-Portfolio\Transmission Loss Box\Results\field_point_results(2).plt" ) (time: 00s, total: 35s, mem: 294[294]MB)
+  Exiting application
