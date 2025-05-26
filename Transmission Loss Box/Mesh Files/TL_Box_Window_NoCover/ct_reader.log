@@ -1,0 +1,64 @@
+**************************************************************************** 
+Info        : SOLIDWORKS Reader 
+Info        : HyperWorks Version 2025.0.0.24 
+Info        : Input file - C:/Users/tamc241/Documents/GitHub/CAD-Portfolio/Transmission Loss Box/Geometry Files/Box_Air_Transmission_Loss_Open.SLDPRT 
+Info        : Translator used - C:/Users/tamc241/Documents/Altair/hwdesktop/io/cn_translators/bin/win64/ct_reader.exe 
+Info        : Translation start time - 05-26-2025 15:26:32 
+Info        :  
+Info        :  
+Info        : -------------------------------------------------- 
+Info        : Import options selected in HyperMesh 
+Info        : -------------------------------------------------- 
+Info        :  
+Info        :   Command line options 
+Info        :   ---------------------- 
+Info        :   AvoidPartAttributes               = off 
+Info        :   BodyIDAsMetadata                  = off 
+Info        :   CleanupTol                        = -0.01 
+Info        :   ColorsAsMetadata                  = off 
+Info        :   CreationType                      = Parts 
+Info        :   DegSurfTol                        = 0.0 
+Info        :   DensityAsMetadata                 = on 
+Info        :   DisplayRepresentation             = off 
+Info        :   DoNotMergeEdges                   = off 
+Info        :   FacetEdgeTolerance                = 1e-04 
+Info        :   FacetSurfaceTolerance             = 1e-04 
+Info        :   FacetingLevel                     = Medium 
+Info        :   ImportBlanked                     = off 
+Info        :   ImportCoordinateSystems           = on 
+Info        :   ImportFreeCurves                  = on 
+Info        :   ImportFreePoints                  = on 
+Info        :   LegacyHierarchyAsMetadata         = off 
+Info        :   MID                               = MaterialId 
+Info        :   MaterialName                      = Material 
+Info        :   MeshFlag                          = MeshFlag 
+Info        :   OriginalIdAsMetadata              = on 
+Info        :   PID                               = PID 
+Info        :   PartName                          = PartName 
+Info        :   PartNumber                        = PartNumber 
+Info        :   Revision                          = Revision 
+Info        :   ScaleFactor                       = 1.0 
+Info        :   SkipCreationOfSolid               = off 
+Info        :   SplitComponents                   = Body 
+Info        :   SplitPeriodicFaces                = on 
+Info        :   StitchingAcrossBodies             = on 
+Info        :   TagsAsMetadata                    = on 
+Info        :   TargetUnits                       = CAD units 
+Info        :   ThicknessName                     = Thickness 
+Info        :   UID                               = UID 
+Info        :   UpdateSketchingUnits              = on 
+Info        :   VariantCondition                  = VariantCondition 
+Info        :   VariantScope                      = VariantScope 
+Info        :  
+Info        :   INI file options 
+Info        :   ---------------------- 
+Info        :   AvoidThirdPartyConversion         = on 
+Info        : -------------------------------------------------- 
+Info        :  
+Error       : Error managing neutral data from client side 
+Info        :  
+Info        : Translation end time - 05-26-2025 15:26:33 
+Info        : Translation duration - 1.000000 sec 
+**************************************************************************** 
+
+ 
